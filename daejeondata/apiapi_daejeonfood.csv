@@ -1,0 +1,1000 @@
+id,title,new_add,소재지주소,지정일자,음식의유형,주된음식종류,call,img_url,Latitude,Longitude
+1,한밭식당,대전광역시 동구 태전로 3 (중동),대전광역시 동구 중동 60-1 ,19920728,한식,설렁탕, 042 2561565,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_189%2F1441056957947unu9v_JPEG%2F156155408648072_0.jpg,36.3309363,127.4309338
+2,태화장,"대전광역시 동구 중앙로203번길 78, 1,2,3층 (정동)","대전광역시 동구 정동 36-34 ,36-32, 36-30번지 1,2,3층 ",19981021,,"짜장,짬뽕",042 256 2407,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150825_105%2F14404798210880OSn2_JPEG%2F166775544677912_3.jpg,36.3339091,127.429521
+3,왕관식당,대전광역시 동구 선화로196번길 6 (중동),대전광역시 동구 중동 3-30 ,20061228,,"육회,콩나물밥", 042 2211663,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200110_58%2F1578592970835s4Rr2_JPEG%2F33C5YUEIqusr6tweN_sJhr-L.JPG.jpg,36.3335752,127.4275463
+4,경동오징어국수식당,대전광역시 동구 계족로 369 (성남동),대전광역시 동구 성남동 200-342 ,20120319,분식,칼국수, 042626 5707,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190729_242%2F1564382315438N1cYw_JPEG%2FpzPiMP9Uix-I_16hlnPXuSng.jpeg.jpg,36.3447577,127.433185
+5,중국성,대전광역시 동구 대전로815번길 66 (정동),대전광역시 동구 정동 8-5 ,20050930,,탕수육, 042254 3353,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180423_47%2F15244863915007c12O_PNG%2Fqfj9fCELMfj6zzZxN3Od1tdg.png,36.3346417,127.4302653
+6,별천지,대전광역시 동구 산서로1659번길 29 (대별동),대전광역시 동구 대별동 198 ,20061228,,한방백숙,042 271 0207,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171019_249%2F1508382125149Xqkdi_JPEG%2FQktCum3hnZh-O4241SqjOyPA.jpg,36.2909711,127.4610745
+7,평양숨두부식당,대전광역시 동구 대전로 381 (대성동),대전광역시 동구 대성동 163-2 ,19940516,,숨두부, 042284 4141,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_278%2F1441054664327QjhF7_JPEG%2F11848724_0.jpg,36.3012402,127.4567428
+8,만인산식당,대전광역시 동구 산내로 111 (하소동),대전광역시 동구 하소동 460-1 ,19981021,,"갈비탕, 불고기", 042274 0700,NULL,36.2001311,127.4490255
+9,옛촌,대전광역시 동구 장수1길 2 (신흥동),대전광역시 동구 신흥동 9-1 ,20090413,,생삼겹살, 042 2741678,NULL,36.3236278,127.4462319
+10,락원간제미타운식당,"대전광역시 동구 우암로171번길 19 (성남동,,8)","대전광역시 동구 성남동 42-4 ,8 ",19970804,,간재미무침, 042 6361667,NULL,36.3425101,127.435504
+11,용운산성식당,대전광역시 동구 새울로 42-21 (용운동),대전광역시 동구 용운동 316-17 ,19970804,,누룽지백숙, 042 2856692,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2F20131029_164%2Fgudco9806_1383023028302Vryz0_JPEG%2FCAM03828.jpg,36.3220685,127.4635991
+12,착한낙지홍도점,대전광역시 동구 동서대로 1609-2 (홍도동),대전광역시 동구 홍도동 13-11 ,20060929,,낙지볶음, 042 6255100,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171123_43%2F1511429828002F2gTT_JPEG%2FpqdwdLHVWIztaWJkOV554M5u.jpg,36.3463649,127.4296407
+13,박가네 등갈비,"대전광역시 동구 동대전로 287, 1,2층 (가양동)","대전광역시 동구 가양동 419-3 1,2층 ",20141215,한식,매운등갈비, 042 6216219,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150825_278%2F1440479662286JtSaL_JPEG%2F166775544440402_0.jpg,36.3463007,127.4447111
+14,풍전삼계탕식당,대전광역시 동구 계족로 414 (용전동),대전광역시 동구 용전동 145-9 ,20080331,,삼계탕, 042 6313838,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200110_145%2F1578584349659Hrr6y_JPEG%2FiL53CvKSer-Rb1F-WDmqPfEV.JPG.jpg,36.3486727,127.4324214
+15,진성아구찜용전점,대전광역시 동구 계족로392번길 2 (성남동),대전광역시 동구 성남동 504-51 ,20110929,한식,해물찜,042 634 1044,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA3MjRfMiAg%2FMDAxNjU4NjYzOTEwNTYz.fkEujvv6w3iIj8DIgAwpDEsJtKG0Ja3SuDwmi-Ycx2kg.27VTQ_wXDBzk7jwHGk0ZvxP-Y_1QzSGJdf491Uq1VFMg.JPEG.ziizz77%2FIMG_9390.jpg,36.3466546,127.4327635
+16,장원오리,대전광역시 동구 한밭대로 1299 (용전동),대전광역시 동구 용전동 24-3 ,20050630,한식,누룽지오리백숙,,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211101_286%2F1635761200167LguWI_JPEG%2FA_LbcswbsZ6CA4XKh5Dz4Fzz.jpeg.jpg,36.3533082,127.4403462
+17,소나무칼국수황제보쌈,대전광역시 동구 송촌남로11번길 209 (용전동),대전광역시 동구 용전동 10-1 ,20041130,,바지락칼국수, 042 6738333,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190709_134%2F1562669181968PKTjW_JPEG%2FnCrnHFAngbEnrZWJB-D4SEO5.jpg,36.3593437,127.4332386
+18,천안원조닭똥집식당,대전광역시 동구 동서대로1692번길 27 (가양동),대전광역시 동구 가양동 450-25 ,20080331,,닭똥집볶음, 042 6339038,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190130_281%2F1548809287322cBWG3_JPEG%2FJ_TDoamQ40-77rqHX0ruXO4I.jpg,36.3480434,127.4381
+19,장가네대구왕뽈떼기,대전광역시 동구 계족로 309-1 (성남동),대전광역시 동구 성남동 73-3 ,20090413,,대구뽈찜, 042 6230750,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEwMzFfMTc4%2FMDAxNjM1NjkwNjU4Nzc3.go2YfS14Stw9yUa3MBocU9_J7Oz-_eQ_U6rQByvVgGAg.bicdnc2UStd5eUmaoJAUvVgVVlxz43eEu3C5owUAEKQg.JPEG.mysyso%2F20210901_125844.jpg,36.3399832,127.4361104
+20,띠울참숯석갈비가양점,"대전광역시 동구 동대전로 316 (가양동,,13)","대전광역시 동구 가양동 422-9 ,13 ",20090106,,석갈비, 042 6394422,NULL,36.3489423,127.4439481
+21,동태탕에 집중하다,"대전광역시 동구 옥천로 54, 1층 (신흥동)",대전광역시 동구 신흥동 214 ,20170628,한식,동태탕, 042 2715551,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fimage.nmv.naver.net%2Fblog_2021_10_31_1579%2Fa1f4bc47-3a2e-11ec-8636-505dac8c3639_01.jpg,36.3200098,127.4471173
+22,대박집정육식당,대전광역시 동구 계족로 426 (용전동),"대전광역시 동구 용전동 140-5 ,1 ",20090630,,고기, 042 6212133,NULL,36.3497242,127.4325586
+23,외식,대전광역시 동구 대전로 435-9 (가오동),"대전광역시 동구 가오동 237-29 373-13, 407-84 ",20090413,,돼지갈비, 042 2849200,NULL,36.3046373,127.4528477
+24,함초양념갈비,대전광역시 동구 계족로 508 (용전동),대전광역시 동구 용전동 43-5 ,20061228,,양념갈비, 042 6241184,NULL,36.3570352,127.4331473
+25,경성한우축산식당,대전광역시 동구 계족로140번길 150 (용운동),대전광역시 동구 용운동 450-11 ,20150708,식육,등심,042 528 8949,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180917_73%2F1537157367351fA2L1_JPEG%2FQDz6A4QO_pgsoqjK-uimrYlJ.jpg,36.3276318,127.4526391
+26,일품정육식당,대전광역시 동구 대전로 296 (대성동),대전광역시 동구 대성동 210-1 ,20071023,한식,고기,042 285 8443,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190525_147%2F1558779891967ddak9_JPEG%2FLRamay9xbFMKkY48zSaaXyve.jpg,36.2946257,127.4616851
+27,감골오리,대전광역시 동구 대전로 896 (삼성동),대전광역시 동구 삼성동 296-13 ,20071023,,오리부추구이, 042 6225295,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzExMDhfMjg2%2FMDAxNTEwMTE1NTU2NDQ1.LWiXKHvn6E6uIMXH94yJHebdcutD2CBB1zUbgE3Hddsg.88O7hWeFGt2eExJYxanUQR5gVlwXYHH3jZPsodxUOZwg.JPEG.psyche0922%2FKakaoTalk_Moim_5nFv3Q2d7OkzssrsZ34J3nO7xQs2DU.jpg,36.3389072,127.4289209
+28,어진숯불갈비식당,"대전광역시 동구 충무로 229 (인동,2층)",대전광역시 동구 인동 147-7 2층 ,20071023,,숯불갈비, 042285 0114,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190212_129%2F1549940419941Q7Bk2_JPEG%2FA78EZrbjlT22JnbV3tKbbHrS.jpg,36.3227203,127.4412143
+29,금촌한우정육식당,대전광역시 동구 계족로 324 (성남동),대전광역시 동구 성남동 47-2 ,20101008,,한우모듬구이, 042 6727159,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA3MTFfMTM1%2FMDAxNjI2MDAwOTU1NDMz.fyo-1f_Syu007OEgqt1_r65rULrrJ7hnQSb6C_93dXAg.GuFfAr1EHFp2dsxTv23Lg5StUtxZZ4Ha4mpyMNJvJuQg.JPEG.tjswnwkdrmq%2F20210711%25A3%25DF172103.jpg,36.3411159,127.4360855
+30,불난뚱땡이,대전광역시 동구 백룡로 21 (자양동),대전광역시 동구 자양동 104-28 ,20091001,한식,돼지고기 삼겹살,042 624 0009,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAxMTlfMTM5%2FMDAxNDg0ODAxODQwMDg2.AsXZW4dq9ueBphA81MfzxI-ZnG8Wi5dobTBli7vjl3Ug.J2e4omLlxeGe6JguMeqX-PeA8OB03cRPAORo2KsCVC8g.JPEG.jimin2243%2F4fcf3cd2-5f3b-46e4-b555-9b8ce72191a4.jpg,36.3356279,127.4493539
+31,안면도회센타,대전광역시 동구 산내로 1407 (낭월동),대전광역시 동구 낭월동 302 ,20091001,일식,회, 042 4887722,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200108_222%2F1578447425672MM90i_JPEG%2FB9LRI86kHHVI_Bu8gXgnOnPB.jpg,36.2883267,127.4638569
+32,시골막국수와 닭개장,대전광역시 동구 대학로50번길 78-28 (용운동),대전광역시 동구 용운동 663 ,20130607,분식,막국수,042 282 4883,NULL,36.333081,127.4560551
+33,명성만두샤브샤브전문점,대전광역시 동구 신기로 91 (가오동),대전광역시 동구 가오동 493 ,20090618,,만두전골,042 286 8088,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210312_216%2F1615556242082fJc5w_JPEG%2FFomNQNiG7apYxq93HUlRxjjl.jpg,36.3101395,127.4562123
+34,모모갈비식당,대전광역시 동구 신기로 117 (가오동),대전광역시 동구 가오동 477 ,20130607,한식,돼지갈비,042 484 0606,NULL,36.3116155,127.4583412
+35,차오차오 앤 니하오마,대전광역시 동구 한남로 13 (홍도동),대전광역시 동구 홍도동 97 ,20120319,중식,자장면,042 623 9295,NULL,36.3509632,127.4268575
+36,한우농장30년,"대전광역시 동구 동부로 13 (판암동,1, 2층)","대전광역시 동구 판암동 490-10 1, 2층 ",20110331,,한우꽃등심, 042 2749393,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200412_226%2F1586675321317qkFbM_JPEG%2FSLjBKNvZ5LGMzjmZIDXT33wt.jpg,36.3182293,127.4560458
+37,솔파인 레스토랑,"대전광역시 동구 동대전로 171 (자양동, 우송정보대신관 13층)",대전광역시 동구 자양동 72-1 ,20130404,양식,스테이크,042 629 6610,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200914_92%2F1600070081470yPJzH_JPEG%2FOZn1DR3B8CGFbPQe0-_1IQyK.jpg,36.3362088,127.44634
+38,장금이유기농우렁쌈밥,대전광역시 동구 가양로 135 (가양동),대전광역시 동구 가양동 448-17 ,20120608,한식,쌈밥,042 638 8253,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220516_206%2F1652669810036FnzEG_JPEG%2F20220516_112745.jpg,36.3482394,127.4408749
+39,봉추찜닭,"대전광역시 동구 동서대로1695번길 30, 동관동 CE106호 (용전동, 대전복합터미널)",대전광역시 동구 용전동 68-2 대전복합터미널 ,20131018,한식,찜닭,042 622 6981,NULL,36.3514816,127.4375193
+40,장충동할머니족발보쌈(용운점),"대전광역시 동구 백룡로 75-43, 지하1층 (용운동)",대전광역시 동구 용운동 125-4 ,20140704,한식,"족발,보쌈", 042 3228881,NULL,36.3340643,127.4552719
+41,유성갈비 가오점,"대전광역시 동구 대전로448번길 52-4, 1층 (가오동)",대전광역시 동구 가오동 590 1층 ,20170404,한식,돼지갈비,042 274 3579,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210423_122%2F1619188701653nc8Lx_JPEG%2Fq_V6LWPE29LUUl6_N2wpyFP0.jpg,36.3071063,127.4545241
+42,진로집,대전광역시 중구 중교로 45-5 (대흥동),대전광역시 중구 대흥동 314-1 ,19950707,,두루치기,042 226 0914,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190525_107%2F1558754809354I7Ghj_JPEG%2F7mKoAXTfjm8W1E0Ju5ktKwFq.jpg,36.325854,127.4247025
+43,희락반점,대전광역시 중구 중앙로129번길 21 (선화동),대전광역시 중구 선화동 36 ,20051220,,"자장면,탕수육",042 256 0273,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171011_126%2F1507710623178iBP5W_JPEG%2Fc5AOiUuUG2mEVKQREZYEn9mA.jpg,36.3289657,127.4235045
+44,금광식당,"대전광역시 중구 충무로 127 (대사동,(2,3,4,층))","대전광역시 중구 대사동 64-18 (2,3,4,층) ",19950707,,한정식,042 226 8686,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200119_178%2F157941157389174XY0_JPEG%2FIgTst7GSBS0ApIgt3QRtFmJ0.jpg,36.3192439,127.4306458
+45,쭈낙,대전광역시 중구 계백로1593번길 7 (유천동),대전광역시 중구 유천동 209-212 ,20160329,한식,"쭈꾸미, 낙지",042 533 5550,NULL,36.3183226,127.3962591
+46,영동식당,대전광역시 중구 계룡로874번길 27-9 (오류동),대전광역시 중구 오류동 153-25 ,19980829,,토끼탕,042 531 6016,NULL,36.322632,127.4099002
+47,고려회관,"대전광역시 중구 중앙로109번길 30, 2층 (선화동)",대전광역시 중구 선화동 232-8 2층 ,20160329,한식,"소고기, 정식", 042 2548080,NULL,36.3286505,127.4216847
+48,삼성식당,"대전광역시 중구 계룡로 860-13, 1층 (오류동)",대전광역시 중구 오류동 149-6 1층 ,20020413,한식,제육짜글이,042 533 8745,NULL,36.3235437,127.4101918
+49,연아식당,대전광역시 중구 유천로 57-9 (유천동),대전광역시 중구 유천동 212-2 ,19981121,,황태찜,042 583 8956,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190307_128%2F1551965940803z4BBl_JPEG%2Fp_gAYtqDB6EajFnf69q2eOEw.jpg,36.3175654,127.3972929
+50,본가아구와동태찜,대전광역시 중구 대종로549번길 34 (선화동),대전광역시 중구 선화동 141-2 ,20070629,,동태찜,042 255 0088,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_105%2F1441019724038MQ2EJ_JPEG%2F107077525236132_0.jpg,36.3307283,127.4206691
+51,태화원,대전광역시 중구 중앙로112번길 43 (대흥동),대전광역시 중구 대흥동 463 ,20111221,중식,중화요리,042 255 1688,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTEyMjVfMjUy%2FMDAxNjQwNDI0NDkzNzUy._Mlz2TN_bglVJ7POnjTaZ1myxJk6fckpbLRy12EaLskg.bm6_vqgQzP9bDqhw5JBit4AXTlSpx28_vcpQAGq6mPMg.JPEG.365homedr%2F20211210%25A3%25DF132100.jpg,36.3255547,127.4235519
+52,다정식당,"대전광역시 중구 보문산공원로 496, 1층 (대사동)",대전광역시 중구 대사동 198-138 1층 ,20150331,한식(향토),"보리밥, 묵무침", 042 2524322,NULL,36.3129821,127.4220309
+53,자연산횟집,대전광역시 중구 유천로86번길 20 (유천동),대전광역시 중구 유천동 204-6 ,20030408,,"활어회, 매운탕",042 535 7132,NULL,36.3203492,127.397982
+54,초량식당,대전광역시 중구 중앙로121번길 58 (선화동),대전광역시 중구 선화동 18-4 ,20051220,,"등심,백반", 042255 4563,NULL,36.3301797,127.4222035
+55,영광민물장어식당,"대전광역시 중구 보문로 213 (대흥동,(1층))",대전광역시 중구 대흥동 326-182 (1층) ,19991007,,장어구이,042 257 2388,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200116_189%2F1579159595175OArb4_JPEG%2Fwdtz39Qc2aft3fvoAO1ghjvL.jpg,36.3215531,127.4231682
+56,충남장어구이,"대전광역시 중구 대흥로121번길 28 (대흥동,(1,2층))","대전광역시 중구 대흥동 410-1 (1,2층) ",19960528,,장어구이,042 255 9897,NULL,36.3247481,127.4252341
+57,예지원식당,"대전광역시 중구 중앙로16번길 27-17, 1~4층 (문화동)",대전광역시 중구 문화동 1-178 1~4층 ,20110927,한식,한정식,042 222 3522,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200807_99%2F1596797130961lObkM_JPEG%2FmVO3oqxyy6Rqy1Sac3OfV3es.jpg,36.3219536,127.4152634
+58,황토우렁이마을,대전광역시 중구 대둔산로 454 (산성동),대전광역시 중구 산성동 160-14 ,20110401,,우렁이 쌈밥, 042 5820118,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODA5MDhfMjg5%2FMDAxNTM2Mzg2MjM4NjEx.wHxF9fx4sCrZ4l03PjNKdgo9Eqdt7fPu5hMDoCG0mNAg.fuIRnn2ATGhhsaEDzyI5Fr7AJwtXHbtKY09uSIDcFfYg.JPEG.thisdon77%2F%25BF%25EC%25B7%25B7%25C0%25CC%25B8%25B6%25C0%25BB30.jpg,36.3094063,127.3882391
+59,국보산삼오리,"대전광역시 중구 대종로460번길 62 (대흥동,(2층))",대전광역시 중구 대흥동 3-1 (2층) ,20140408,한식,오리전문,042 252 5288,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190130_22%2F15488310517016hwyA_JPEG%2FPp4udNhDqH_mK9-_Gneh_dBb.jpg,36.3268718,127.4307774
+60,홍두깨칼국수,"대전광역시 중구 대종로 258, 1층 (석교동)",대전광역시 중구 석교동 10-17 1층 ,20140710,"칼국수,수육",, 042 2548314,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221001_111%2F1664635480123AVzD9_JPEG%2F%25C8%25AB%25B5%25CE%25B1%25FA%25C4%25AE%25B1%25B9%25BC%25F6_%25BB%25E7%25C1%25F8.jpg,36.3111006,127.4397093
+61,대들보함흥면옥,"대전광역시 중구 계백로1583번길 39, 1층 (유천동)",대전광역시 중구 유천동 311-13 1층 ,20080929,,"냉면,불고기,만두",042 522 5900,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA1MTRfMjgg%2FMDAxNjUyNTAwMzcwMDc3.HiXzUE3D-KL3h2BNlwrvXbFujWnqvez__SEFgZaJCPMg.ClD-rcC5c5-KkahAwJ7sNmyB9V7JZOJyh5GKKAGFXOsg.JPEG.lhs7569%2F20220509%25A3%25DF130930.jpg,36.3197025,127.3952105
+62,로보쿡식당,대전광역시 중구 중앙로164번길 18 (은행동),대전광역시 중구 은행동 40-1 ,20140408,양식,"피자,스파게티",042 221 5009,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200103_263%2F1578049972638kOJwh_JPEG%2FnYSFzLx03hx0syg0bdlQYDCC.jpg,36.3285344,127.4279017
+63,신태평고을정육식당,"대전광역시 중구 동서대로 1190, 1층 (태평동)","대전광역시 중구 태평동 413-2 ,2(1층) ",20130327,한식,"한우, 삽겹살",042 528 5775,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221018_115%2F1666102691661NtUfu_JPEG%2F20221018_114048.jpg,36.3262733,127.3921359
+64,한일회관,대전광역시 중구 유등천동로582번길 30 (태평동),대전광역시 중구 태평동 365-69 ,20110401,,삼겹살, 042 5338891,NULL,36.3300298,127.3957266
+65,산성골식당,"대전광역시 중구 대둔산로364번길 9 (산성동,, 273-7(1,2층))","대전광역시 중구 산성동 273-8 , 273-7(1,2층) ",20080929,,등심,042 581 2989,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_161%2F1441002619133wS82b_JPEG%2F12025122_0.jpg,36.3018651,127.3867314
+66,한우종가,대전광역시 중구 산성로57번길 11 (산성동),대전광역시 중구 산성동 335-2 ,20081223,,"한우,토종돼지고기",042 586 5572,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_65%2F1440986405299NsNJA_JPEG%2F106457568446518_0.jpg,36.3078202,127.3944505
+67,고향콩나물밥,대전광역시 중구 보문로 305 (선화동),대전광역시 중구 선화동 354 ,20080411,,콩나물밥,042 253 0088,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEwMTNfMjUz%2FMDAxNjY1NjQ0NTg4MTQ2.JZcL0FoMeasRqgAQH9lcyCDnvaJop8kqc-u7E1PfLHUg.1po4WOA_5T5Khb0OTMJJCRPeKHVAcAvYPN4XfK1YgEsg.JPEG.jangjang8815%2FIMG_0116.jpg,36.3293757,127.4199607
+68,플라잉팬,"대전광역시 중구 대종로 480, 2층 (은행동)",대전광역시 중구 은행동 153 (2층) ,20021009,,스파게티,042 223 3004,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220427_87%2F1651049921167mWvM1_JPEG%2FKakaoTalk_20220427_160611784.jpg,36.3275153,127.4268243
+69,코바그릴,"대전광역시 중구 중교로 53, 1층 (대흥동)","대전광역시 중구 대흥동 219-10 ,220(1층) ",20170630,양식,슈하스코(브라질전통요리), 042 2215399,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F%2F20170217_221%2F1487298772776F7ytK_JPEG%2F1469707002374.jpg,36.3260651,127.4256655
+70,향촌한우타운,"대전광역시 중구 계백로1615번길 66 (유천동,,155-5(1층))","대전광역시 중구 유천동 188-3 ,155-5(1층) ",20071227,,한우암소,042 528 0022,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_295%2F1441066032969nI7fW_JPEG%2FSUBMIT_1376358804160_16118870.jpg,36.3218262,127.3986667
+71,팔도막국수,"대전광역시 중구 어덕마을로 109 (중촌동,(1층))",대전광역시 중구 중촌동 9-8 (1층) ,20030408,,막국수,042 223 0651,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190701_186%2F1561977536061JrO35_JPEG%2F0vRdgePN_sfuuwl1LNF-VQ_V.jpg,36.3404974,127.4062431
+72,왕십리곱창,"대전광역시 중구 계백로1685번길 8 (오류동,(1층))",대전광역시 중구 오류동 165-9 (1층) ,20060928,,곱창구이,042 531 1154,NULL,36.3212918,127.4067997
+73,밀밭칼국수,"대전광역시 중구 보문산로 147-18 (문화동,(2층))",대전광역시 중구 문화동 559-1 (2층) ,20151218,한식,칼국수,042 586 9654,NULL,36.3063194,127.3970799
+74,장수두부촌,"대전광역시 중구 뿌리공원로23번길 54 (안영동,(1층))",대전광역시 중구 안영동 696-6 (1층) ,20030408,,두부버섯전골,042 586 5988,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_115%2F1441024900976KVDsN_JPEG%2F11706905_0.jpg,36.2854006,127.3821036
+75,우돈마루,"대전광역시 중구 목중로 50 (중촌동,제일프라자(지하))",대전광역시 중구 중촌동 16-10 제일프라자(지하) ,20071227,,한우,042 222 1262,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190921_170%2F1569000024808sEOUQ_JPEG%2FvSyu3-dcHePekLrew6ccYKe_.jpg,36.337775,127.4095729
+76,화평본가,"대전광역시 중구 계룡로 856, 삼학빌딩 1층 (오류동)",대전광역시 중구 오류동 175-5 삼학빌딩 1층 ,20070629,,냉면,042 526 9256,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201223_298%2F1608709548208gXdcX_JPEG%2FvRWdou4Hwj-aeJIVSey8gN-V.jpg,36.3245038,127.4095086
+77,두손개성만두,"대전광역시 중구 보문산로365번길 2 (문화동,(1층))",대전광역시 중구 문화동 11-15 (1층) ,20120328,한식,만두전골,042 582 5262,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220821_104%2F1661067371126guvo2_JPEG%2F20211101_154005.jpg,36.3145131,127.4164259
+78,바다황제,"대전광역시 중구 대흥로121번길 43, 1~2층 (대흥동)","대전광역시 중구 대흥동 458-1 (1,2층) ",20090413,,활어회,042 256 5665,NULL,36.3253401,127.4244779
+79,토담식당,"대전광역시 중구 계룡로 922, 205,206,207호 (문화동, 하우스토리)","대전광역시 중구 문화동 1-31 하우스토리 205,206,207호 ",20090703,,쌈밥정식,042 257 2355,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191206_166%2F1575614896687oEEJT_JPEG%2F72DWCxwTAFCd72Gv_CcwPPcp.jpg,36.3199482,127.4145111
+80,최가네식당,"대전광역시 중구 대둔산로159번안길 2 (안영동,(1,2층))","대전광역시 중구 안영동 416-6 (1,2층) ",20111221,한식,돼지석갈비,042 583 6997,NULL,36.2858926,127.3761831
+81,시루향기산성점,"대전광역시 중구 대둔산로 364 (산성동,(1층))",대전광역시 중구 산성동 273-10 (1층) ,20110706,한식,콩나물국밥,042 587 0592,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2F20150511_223%2Fsuejingod_1431339158373h0GHB_JPEG%2FDSC07742.jpg,36.3019055,127.386347
+82,손이가어죽칼국수,"대전광역시 중구 중앙로121번길 44, 1~2층 (선화동)",대전광역시 중구 선화동 20 1~2층 ,20071016,한식,"칼국수, 족발",042 489 5003,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200317_239%2F1584415882987vv2qr_JPEG%2FZM0w9A8XJineHqERhqc5Ln7G.JPG.jpg,36.3315078,127.4236184
+83,유가옥,"대전광역시 중구 대종로 323 (부사동,(1층))",대전광역시 중구 부사동 128-1 (1층) ,20160704,한식,"설렁탕, 수육",042 256 3455,NULL,36.3145924,127.4336641
+84,풍년산채골,"대전광역시 중구 보문산로 147-18 (문화동,(1층))",대전광역시 중구 문화동 559-1 (1층) ,20080411,,"한우암소, 냉면",042 584 6094,NULL,36.3063194,127.3970799
+85,내담,"대전광역시 중구 보문산로171번안길 24 (문화동,(1층))",대전광역시 중구 문화동 559-12 (1층) ,20140929,,칼국수,042 582 8777,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA3MDdfMjAx%2FMDAxNTk0MDg5NzE2NDEw.qNY_5H0zIzpf488qo39fACUuTVKV1Hi-YFqvdXbN-twg.dMSRRO2qFI1KGn0gFdhTSfau7-0lYHUu-EQrJ0wftugg.JPEG.par733%2F1594089716327.jpg,36.3062131,127.398153
+86,선속초코다리냉면,"대전광역시 중구 대흥로 22, 1층 (대사동)",대전광역시 중구 대사동 248-264 (1층) ,20120919,한식,냉면,042 224 6699,NULL,36.3217718,127.4166046
+87,맛나감자탕,"대전광역시 중구 동서대로 1228-8 (태평동,,2,3,26(1층))","대전광역시 중구 태평동 381-1 ,2,3,26(1층) ",20120627,한식,감자탕,042 534 0602,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171117_44%2F1510907452294cwelp_JPEG%2FCyYgjkVgGerLcRTDwuAFvpnv.jpg,36.3258349,127.3961466
+88,논두렁추어칼국수,"대전광역시 중구 보문로20번길 41, 1층 (문창동)",대전광역시 중구 문창동 118-3 (1층) ,20110706,한식,"추어칼국수,추어탕",042 272 7589,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200225_7%2F1582626518399Lhj6f_JPEG%2FOMNZ-xY6siqFv3jdUzdwdCHI.jpg,36.3162802,127.4376108
+89,니하오유천점,"대전광역시 중구 평촌로 84 (유천동,,197-2)","대전광역시 중구 유천동 196 ,197-2 ",20120919,중식,자장면,042 535 8070,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDAxMTRfMTAg%2FMDAxNTc4OTgzMTUyODIx.pkRXspreZqbe2hn8AVYZueAV5d24dYbMz6p9W4qGRK0g.n7I7D87wGXPFjcLRQS1z5ZKCIW4PfPCd2OQLm3F5TzUg.JPEG.neungya%2FIMG_0983.jpg,36.3218899,127.3966381
+90,큰집숯불갈비,"대전광역시 중구 계룡로881번길 9-7 (용두동,(1층))",대전광역시 중구 용두동 19-4 (1층) ,20070330,,돼지갈비,042 253 4848,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190131_49%2F1548945904745tR0Kc_JPEG%2Fdu8rBa9j5lPzTxn8X-QjaTIe.JPG.jpg,36.3236824,127.4123648
+91,인정원,"대전광역시 중구 계룡로 755 (용두동,(3층))",대전광역시 중구 용두동 138-9 (3층) ,20110401,한식,한정식,042 254 4999,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190613_197%2F1560403857048nePAx_JPEG%2FRn_bnVzH3Gt36Oexle8XRrkA.jpg,36.3311811,127.4022594
+92,맛소야,"대전광역시 중구 계백로1565번길 10 (유천동,,42(1.2층))","대전광역시 중구 유천동 308-37 ,42(1.2층) ",20080929,,"소고기구이,등심",042 524 9923,NULL,36.3181368,127.3942738
+93,크래버대게나라대전점,"대전광역시 중구 계룡로 875 (용두동,1층)",대전광역시 중구 용두동 19-8 1층 ,20091001,,대게,042 253 5295,NULL,36.3236119,127.4119555
+94,무지개한정식,"대전광역시 중구 보문로 264 (대흥동,지상2층)",대전광역시 중구 대흥동 498-2 지상2층 ,20091001,,한정식,042 256 8881,NULL,36.3262214,127.4222071
+95,이삭,"대전광역시 중구 중앙로170번길 24 (은행동,,53-19,53-22(1층))","대전광역시 중구 은행동 53-1 ,53-19,53-22(1층) ",20090413,,생선초밥,042 253 1002,NULL,36.3285313,127.4289442
+96,김판순김치찌개,"대전광역시 중구 안영로 45 (안영동,(지상1층))",대전광역시 중구 안영동 642-3 (지상1층) ,20110509,,"김치찌개, 삼겹살",042 586 5252,NULL,36.2931751,127.3804158
+97,원조태평소국밥유천점,"대전광역시 중구 유천로 17-1 (유천동,(1층))",대전광역시 중구 유천동 268-15 (1층) ,20100330,,국밥,042 528 2222,NULL,36.3142907,127.3986422
+98,괴산올갱이,대전광역시 중구 보문로 253-27 (대흥동),대전광역시 중구 대흥동 503-2 (지상2층) ,20140929,,올갱이해장국,042 253 3501,NULL,36.3246665,127.420842
+99,박가부대찌개(은행점),"대전광역시 중구 중앙로164번길 22-9 (은행동,(1층))",대전광역시 중구 은행동 33-4 (1층) ,20111221,한식,부대찌개,042 221 8277,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220908_117%2F166261385819285QEG_JPEG%2F%25B9%25DA%25B0%25A1%25BA%25CE%25B4%25EB_%25BD%25C5%25B8%25DE%25B4%25BA_%25C4%25A1%25C1%25EE_%25B4%25DF%25B0%25A5%25BA%25F1_%25B6%25B1%25BA%25BA%25C0%25CC_%25B3%25D7%25C0%25CC%25B9%25F6_%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25BD%25E6%25B3%25D7%25C0%25CF_%25281%2529.jpg,36.3280759,127.4277758
+100,하나참치,"대전광역시 중구 계백로1685번길 18 (오류동,(1층))",대전광역시 중구 오류동 166-10 (1층) ,20161227,일식,참치회,042 521 0033,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180430_186%2F1525078601745wAIr2_JPEG%2FM2iQFYXxzh2N3UPHzkCW1eUr.JPG.jpg,36.3217249,127.4065269
+101,남다른감자탕대전유천점,"대전광역시 중구 계백로 1601 (유천동,(1층))",대전광역시 중구 유천동 207-6 (1층) ,20160329,한식,"감자탕, 해장국",042 534 2110,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180725_80%2F1532494548185Ouwkz_JPEG%2FpSfaKh3WtaCBKwmhtkjkXOov.jpg,36.3188133,127.3979448
+102,해뜨는집,"대전광역시 중구 대종로296번길 17 (문창동,(1층))",대전광역시 중구 문창동 373-3 (1층) ,20100930,,오리백숙,042 274 8720,NULL,36.3132684,127.4365055
+103,대림한정식,"대전광역시 중구 대종로505번길 50, 2층 (선화동)","대전광역시 중구 선화동 229-6 ,229-1,229-7,229-8,230-2,230-6 대림관광호텔(2층) ",20151218,한식,한정식,042 221 6969,NULL,36.3285201,127.4223016
+104,풍천민물장어,"대전광역시 중구 계백로 1601 (유천동,(2층))",대전광역시 중구 유천동 207-6 (2층) ,20150331,한식,장어구이,042 522 9252,NULL,36.3188133,127.3979448
+105,문성회관,"대전광역시 중구 계백로1603번길 30 (유천동,(1층))",대전광역시 중구 유천동 204-9 (1층) ,20120328,한식,굴국밥,042 226 5292,NULL,36.319935,127.3978838
+106,당디숯불갈비,"대전광역시 중구 대둔산로 460 (산성동,, 144-10 (1층))","대전광역시 중구 산성동 144-9 , 144-10 (1층) ",20130626,한식,소고기,042 587 6769,NULL,36.3101639,127.3885183
+107,삼일소고기국밥,"대전광역시 중구 계룡로 806 (오류동,,187-9,187-24(1층))","대전광역시 중구 오류동 187-8 ,187-9,187-24(1층) ",20140710,한식,소고기국밥,042 533 3198,NULL,36.3273662,127.4057101
+108,복코찜이,"대전광역시 중구 대둔산로 247, 1층 (안영동)",대전광역시 중구 안영동 644-4 1층 ,20140408,분식,코다리찜,070 74504000,NULL,36.2919645,127.3817769
+109,대관령축산정육식당,"대전광역시 중구 서문로 128, B동 2층 (문화동)","대전광역시 중구 문화동 311-12 ,311-58 B동(2층) ",20130327,한식,쇠고기,042 582 9992,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220421_287%2F1650532569099c5v9B_JPEG%2F20220420_174455.jpg,36.3194883,127.4064036
+110,대원칼국수,"대전광역시 중구 대종로 460, 1층 (대흥동)",대전광역시 중구 대흥동 158-2 (1층) ,20170405,분식,"칼국수, 수육",042  2220316,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170731_275%2F150145985288555pPt_JPEG%2F20170219_131924.jpg,36.3257161,127.4278878
+111,샤브향목동점,대전광역시 중구 동서대로 1397 (목동),대전광역시 중구 목동 4-11 (2층) ,20140408,한식,샤브샤브,042 222 1900,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211202_281%2F16383715978968ucqi_JPEG%2F20211105_190343.jpg,36.333599,127.4118415
+112,청와삼대,"대전광역시 중구 계룡로904번안길 6, 1층 (문화동)",대전광역시 중구 문화동 1-97 (1층) ,20170630,한식,"족발,보쌈",042 222 1440,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190301_107%2F1551433788737nal9a_JPEG%2FMQZg8ZE0rigJ4q33nrQkBdDV.jpeg.jpg,36.3208084,127.4129366
+113,다교네쭈꾸미세상,"대전광역시 중구 대종로505번길 33, 1층 (선화동)","대전광역시 중구 선화동 47-1 ,48-1(1층) ",20150630,한식,쭈꾸미볶음,042 221 0276,NULL,36.3285327,127.4234175
+114,계룡산가마솥콩두부,"대전광역시 중구 용두로 17-1, 1층 (용두동)",대전광역시 중구 용두동 31-14 1층 ,20170927,한식,청국장,042 538 3131,NULL,36.326003,127.4096075
+115,쿠우쿠우대전점,"대전광역시 중구 중앙로156번길 16, 6층 (은행동, 앤비)",대전광역시 중구 은행동 143-1 앤비 ,20161227,일식,"초밥, 스시",042 253 5500,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_87%2F16490377429104JwX2_PNG%2F%25C0%25CC%25BF%25EB%25BF%25E4%25B1%25DD182324138.png,36.3282189,127.4271477
+116,두꺼비만두전골칼국수,"대전광역시 중구 대흥로 139, 1층 (대흥동)",대전광역시 중구 대흥동 175 1층 ,20161006,분식,만두전골, 042 2852222,NULL,36.3242806,127.4275463
+117,밀당가야밀면짬뽕,"대전광역시 중구 유천로 59-1, 1층 (유천동)",대전광역시 중구 유천동 210-10 1층 ,20171220,분식,"밀면,짬뽕", 042 5319279,NULL,36.3179003,127.3973939
+118,24시생고기김치찌개전문점,"대전광역시 중구 태평로 80, 1층 (태평동)",대전광역시 중구 태평동 383-1 1층 ,20171220,한식,김치찌개, 042535 8882,NULL,36.3238357,127.3946841
+119,오가네대구왕뽈떼기,"대전광역시 중구 유천로102번길 18, 2층 (유천동)",대전광역시 중구 유천동 200-12 2층 ,20171220,한식,"뽈떼기찜,탕",042 347 5959,NULL,36.3216506,127.3972737
+120,충무할매낙지볶음,"대전광역시 서구 도산로 340, 1층 (용문동)",대전광역시 서구 용문동 277-4 1층 ,20121221,한식,낙지볶음, 042 5319348,NULL,36.3352939,127.3898491
+121,정림가든,대전광역시 서구 혜천로 20 (정림동),대전광역시 서구 정림동 8-4 ,20130722,한식,"오리전골, 장어", 042 5838600,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170502_29%2F1493709469722GLnrn_JPEG%2F1.jpg,36.307464,127.3694672
+122,대성콩국수,"대전광역시 서구 도산로 141, 1,2층 (도마동)",대전광역시 서구 도마동 67-36 ,20161014,한식,콩국수,042 533 4586,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170703_267%2F14990548725515Y2H4_JPEG%2F20170628_171622.jpg,36.3210511,127.3775335
+123,돈수원갈비,대전광역시 서구 도산로 103 (도마동),대전광역시 서구 도마동 100-15 ,20051007,한식,돼지갈비,042 525 9209,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180608_295%2F1528438345093a79YC_JPEG%2FN69uL8cmjkSI4fZbgQ3fEfPZ.JPG.jpg,36.317533,127.377959
+124,한마음면옥식당,대전광역시 서구 사마1길 22 (도마동),대전광역시 서구 도마동 101-6 ,20021004,분식,냉면, 042 5360408,NULL,36.3172649,127.3766626
+125,이모네감자탕,대전광역시 서구 도솔로 135 (도마동),대전광역시 서구 도마동 34-44 ,20150327,한식,감자탕, 042 5229781,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190424_81%2F1556062853309N8EXL_JPEG%2FIcSOR3hp-bRreohGteHKl6-c.jpg,36.3226544,127.3735558
+126,구봉농장식당,대전광역시 서구 계백로776번길 134 (관저동),대전광역시 서구 관저동 833 ,20070813,한식,멧돼지숯불구이, 042 5453000,NULL,36.2840326,127.3219061
+127,그림같은집,대전광역시 서구 배재로91번길 51-2 (도마동),대전광역시 서구 도마동 328-20 ,20160711,한식,백반, 042 5348953,NULL,36.3173607,127.368305
+128,도시애바다,대전광역시 서구 신갈마로 171 (갈마동),대전광역시 서구 갈마동 337-14 ,20081229,한식,옻닭, 042 5339189,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEwMjNfNDkg%2FMDAxNjY2NTIxMzQ3NjM4.bRP_yrxYyKBiNzPgCIVHm5t5hN5C-SGuxD3loUJvDDgg.P-LDNTStRJl3oIRJAB_5usnozjq8JH49R-6KVHt3vpAg.JPEG.won26270%2F20221022_205102.jpg,36.3489394,127.3679475
+129,정림일식,"대전광역시 서구 정림로 78-14, 1층 (정림동)",대전광역시 서구 정림동 514 1층 ,20111114,일식,활어회, 042 5855335,NULL,36.3073293,127.3654697
+130,새벽김밥,"대전광역시 서구 계백로 1166-18 (가수원동,1층)",대전광역시 서구 가수원동 767-2 1층 ,20070425,한식,김밥, 042 5419977,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA2MDhfMTcw%2FMDAxNTkxNjI2MDA1MTYx.1-RohHsCTrR0GlH5Og49hMzGK9K_p1X5ETJkyRyylfog.sKxzisHUrez2F82G4Dw56Gk57u27XIsM1poSjhEhoIog.JPEG.first_seogu%2F%25BB%25F5%25BA%25AE%25B1%25E8%25B9%25E413.jpg,36.3040978,127.3529405
+131,객잔,"대전광역시 서구 복수동로51번길 58 (복수동,(1층))",대전광역시 서구 복수동 644 (1층) ,20081229,중식,홍합짬뽕,042 584 8700,NULL,36.299084,127.381871
+132,흑산도회,대전광역시 서구 대덕대로335번길 23 (월평동),대전광역시 서구 월평동 227 ,20041001,일식,활어회, 042 4845587,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200213_214%2F1581575438510MwDGa_JPEG%2FQKJijMda6I8AwOBWijalBCJb.jpg,36.3627339,127.3781065
+133,2002돼지마을식당,"대전광역시 서구 괴정로 181 (용문동,1층)",대전광역시 서구 용문동 280-79 1층 ,20070425,한식,삼겹살, 042 5223435,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA1MDJfNTAg%2FMDAxNjUxNDgzNjk3NTY3.cnnS8ciNafaAQuQjSHvjYT7l-9crbXuFE5nNoUiqH7sg.USMpJkBTs_MuxeCa7LUEaFfF5582X9CsEO4AhXnC7rUg.JPEG.palcorn7%2Fyo20220429_1947471.jpg,36.3332669,127.3908863
+134,농도원생고기,대전광역시 서구 조달청길 55 (도마동),대전광역시 서구 도마동 63-26 ,19980608,한식,돼지생고기, 042 5225070,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA0MjhfMTE0%2FMDAxNDkzMzU2Nzg5MzA5.Ib6imCwORpsGb1zIMJXOVJr0kPanApXJLiJplw_HwTEg.58yjG0PGFwTcJbYiIotV9z-Km1rUxYNILb40Jp-7bA0g.JPEG.alsrnjs1222%2F20170414_211529_638.jpg,36.3193953,127.375072
+135,바다회상(판옥선),"대전광역시 서구 청사로 220, 2층 (둔산동)",대전광역시 서구 둔산동 917 2층 ,20081229,일식,활어회, 042 4802697,NULL,36.3594722,127.3878453
+136,둔산돌구이,"대전광역시 서구 둔산중로58번길 49 (둔산동,(2층))",대전광역시 서구 둔산동 1485 (2층) ,20091015,한식,삼겹살, 042 4851400,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_23%2F1440987266441Vsa8s_JPEG%2F11865759_0.jpg,36.3519336,127.3895009
+137,동천홍식당,대전광역시 서구 청사로123번길 25 (월평동),대전광역시 서구 월평동 279 ,20061016,중식,"짬뽕, 탕수육", 042 4826267,NULL,36.3610065,127.3772912
+138,해미락,대전광역시 서구 월평로 25 (월평동),대전광역시 서구 월평동 332 ,20061016,일식,모듬회, 042 4880033,NULL,36.3562099,127.3598554
+139,원조풍원안창,대전광역시 서구 계룡로509번길 27 (탄방동),대전광역시 서구 탄방동 615 ,19980206,한식,안창구이, 042 4872552,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTEwMjZfMzgg%2FMDAxNTcyMDU3OTAyMzE3.drGSJU6J6sB__9gWmB5xdrFlvp37QXpRomQda3peZdog.V5Kez5Nwzttpq1Ec3r1IcIMgxv6O6Ft_4Ke20Tnyjm0g.JPEG.noelkk%2F1572057901283.jpg,36.3451511,127.382014
+140,태원,"대전광역시 서구 문정로 19 (둔산동,(1,2,3층))","대전광역시 서구 둔산동 1242 (1,2,3층) ",20030630,중식,"짜장면,탕수육", 042 4888836,NULL,36.3461535,127.3816953
+141,황토방숯불갈비,"대전광역시 서구 괴정로 27, 1층 (갈마동)",대전광역시 서구 갈마동 1377 ,20061016,한식,삼겹살, 042 5239901,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200407_49%2F1586250188092TQNEJ_JPEG%2FR6RK5T7kIE_63jHVHuD9jg7r.jpeg.jpg,36.3408677,127.3771809
+142,호두나무집식당,"대전광역시 서구 둔산중로64번길 32, 3층 (둔산동)",대전광역시 서구 둔산동 1468 ,20090729,한식,오리동충앞탕,,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220428_245%2F16511304970538vdd5_JPEG%2F1651130052108.jpg,36.3522402,127.3886596
+143,귀빈돌솥밥식당,"대전광역시 서구 만년로68번길 21 (만년동,(1,2,3층))","대전광역시 서구 만년동 349 (1,2,3층) ",20030929,한식,돌솥밥, 042 4883340,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjEwMjFfNzEg%2FMDAxNjY2MzYzMTQ5NDQz.6LaBJeamrQMrXOqyh9TeC2-zr23IVjE-A7ZUIHNL99Ig.JZILS2vc-BPf4FYQFySaq44IhM_vEX2CC2PeYlJWJc4g.PNG.spring-pack%2F%25B8%25B8%25B3%25E2%25B5%25BF_%25B5%25B9%25BC%25DC%25BA%25F1%25BA%25F6%25B9%25E4.png,36.3663379,127.3805171
+144,신수원숯불갈비식당,대전광역시 서구 도산로 15 (도마동),대전광역시 서구 도마동 180-12 ,20160711,한식,돼지갈비, 042 5841807,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221027_124%2F1666823221371MKh5G_JPEG%2FScreenshot_20221027_072631_Samsung_Internet.jpg,36.3114447,127.3834471
+145,자유대반점,"대전광역시 서구 둔산로137번길 28, 3층 (둔산동)",대전광역시 서구 둔산동 1481 ,20000705,중식,"짜장면, 짬뽕", 042 4722924,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200213_248%2F1581579668950yR6MO_JPEG%2Fy7iUkZkRzO9c1C2Ib3UHBv3C.jpg,36.352542,127.3895006
+146,신촌설렁탕,대전광역시 서구 대덕대로 390 (만년동),대전광역시 서구 만년동 291 ,20001209,한식,설렁탕, 042 4892322,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA2MjRfMjY3%2FMDAxNDk4MjgyMzkxMzEw.4n_oTreSOdOXFJEeR3HMSpvs55_AJKceWthrkWn-f_og.P5_GC-Cmm-OGq1wu_tR-aNtC8Bnqti57osYaLYnvfE8g.JPEG.nari520%2FIMG_4018.jpg,36.3675457,127.3800161
+147,정성생고깃간,대전광역시 서구 둔산중로32번길 25 (둔산동),대전광역시 서구 둔산동 1436 ,20091217,한식,쌉밥, 042 4772255,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191120_295%2F1574228209634K5Bfj_JPEG%2Fzlpbr425fd80llzKkMOZhKbt.jpg,36.3496613,127.3882074
+148,만다린식당,"대전광역시 서구 둔산로31번길 32 (둔산동,2층)",대전광역시 서구 둔산동 1009 2층 ,20090522,중식,"짜장,짬뽕", 042 4892060,NULL,36.3530683,127.3778034
+149,황태칼국수,"대전광역시 서구 정림로10번길 15-22 (정림동,1층)",대전광역시 서구 정림동 665 1층 ,20071123,분식,황태칼국수, 042 5812580,NULL,36.3024639,127.3670879
+150,띠울참숯석갈비,대전광역시 서구 계백로 1353 (도마동),대전광역시 서구 도마동 312-198 ,20060331,한식,석갈비, 042 5278818,NULL,36.310682,127.3724913
+151,홍능갈비찜,"대전광역시 서구 도산로 170, 1층 (변동)",대전광역시 서구 변동 62-2 1층 ,20140707,한식,갈비찜, 042 5339255,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210913_116%2F1631496776610r2jYY_PNG%2F%25C8%25AB%25B4%25C9.png,36.3233713,127.3786421
+152,설악,"대전광역시 서구 둔산대로117번길 56, 2층 (만년동)",대전광역시 서구 만년동 385 ,20150703,한식,"칡냉면, 돼지갈비", 042 4895252,NULL,36.3674508,127.3825788
+153,설천순대국밥,"대전광역시 서구 둔산로51번길 66, 1층 101호 (둔산동)",대전광역시 서구 둔산동 1353 1층 ,20161213,한식,순대국밥, 042 4824801,NULL,36.3541085,127.3805995
+154,사리원면옥,"대전광역시 서구 둔산로31번길 77 (둔산동,(2층))",대전광역시 서구 둔산동 968 (2층) ,20070813,분식,"소불고기, 냉면", 042 4874209,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180119_209%2F1516338585208ARjq6_JPEG%2F8qClNj3B6GZQwQWKO9WB8iBa.jpg,36.355241,127.377238
+155,맛청,대전광역시 서구 둔산로51번길 16 (둔산동),대전광역시 서구 둔산동 1281 ,20170713,일식,일식,042 487 2277,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220101_38%2F1641027975717XxDxb_JPEG%2F22-01-01-17-48-08-061_deco.jpg,36.351861,127.3801305
+156,금평식당관저분점,"대전광역시 서구 관저중로96번길 42 (관저동,(1층))",대전광역시 서구 관저동 1056 (1층) ,20061228,한식,추어탕, 042 5459885,NULL,36.3001451,127.3371684
+157,명옥헌삼대진곰탕,대전광역시 서구 도산로369번길 66 (괴정동),대전광역시 서구 괴정동 423-15 ,20120501,한식,곰탕,042 535 8809,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170703_102%2F1499054645807gryHS_JPEG%2F20170628_171622.jpg,36.3396783,127.3896467
+158,그고깃집,대전광역시 서구 한밭대로707번길 27 (월평동),대전광역시 서구 월평동 289 ,20131230,한식,제주도 삼겹살, 042 4823087,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200607_263%2F1591458396673hrxnr_JPEG%2FbXXv3DrljQhC14hIU45s4LeE.jpg,36.3591291,127.3772627
+159,거두리시래기감자탕,"대전광역시 서구 둔산대로117번길 29, 1층 (만년동)",대전광역시 서구 만년동 355 1층 ,20151230,한식,감자탕,042 488 4579,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220509_179%2F1652062787692vTQEW_JPEG%2F1652062626576.jpg,36.3663456,127.3820014
+160,도가네장수촌,"대전광역시 서구 유등로 465, 2층 (가장동)",대전광역시 서구 가장동 17-29 2층 ,20090729,한식,"닭백숙, 오리백숙", 042 5315252,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170829_48%2F1503968487134USGgo_JPEG%2F-ehsUFQb_FfF6KJqMK080AIT.jpg,36.3311955,127.3922291
+161,일정,대전광역시 서구 만년로67번길 18-9 (만년동),대전광역시 서구 만년동 323 ,20060706,한식,한정식,042 489 8877,NULL,36.3683895,127.3807739
+162,어식백세,"대전광역시 서구 둔산로123번길 15 (둔산동,1층)",대전광역시 서구 둔산동 1410 1층 ,20081229,한식,생선구이, 042 4833007,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190724_54%2F1563943848898G6F31_JPEG%2F13-RG-kUyl5EoySiAp0a-m30.jpg,36.3519717,127.3874261
+163,목련관,대전광역시 서구 갈마로169번길 11 (괴정동),대전광역시 서구 괴정동 128-6 ,20030403,한식,한정식,042 536 0119,NULL,36.3393799,127.3758404
+164,짬뽕지존,대전광역시 서구 둔산서로 13 (둔산동),대전광역시 서구 둔산동 1252 ,20161014,중식,짬뽕, 042 4895160,NULL,36.3476839,127.3825967
+165,엑스포아구,대전광역시 서구 대덕대로234번길 29 (둔산동),대전광역시 서구 둔산동 1323 ,20030929,한식,"복,아구탕", 042 4718787,NULL,36.353779,127.3813687
+166,차이나공,"대전광역시 서구 둔산대로117번길 18, 1층 (만년동)",대전광역시 서구 만년동 376 ,20070813,중식,짜장면, 042 4866618,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200526_19%2F1590488132476RaS69_JPEG%2FU5O2G9kAURo0Js5kS3Tj5lFC.JPG.jpg,36.3656997,127.382577
+167,허가네본가,대전광역시 서구 갈마로 10 (갈마동),대전광역시 서구 갈마동 307-14 ,20060331,한식,돼지갈비, 042 5235269,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200620_173%2F1592649947878eEXDv_JPEG%2Fnmgal0l2kPAW-yfVVKpT65MN.jpg,36.3514809,127.3687949
+168,한우돈숯불구이,"대전광역시 서구 둔산중로134번길 29, 2층 (둔산동)",대전광역시 서구 둔산동 924 2층 ,20081020,한식,생삼겹, 042 4823740,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200106_87%2F15782855964827Ge8f_JPEG%2FvqT1amYIFqRnAO2x99wn7Rbv.jpg,36.3589774,127.3887239
+169,완도수산,대전광역시 서구 신갈마로 161 (갈마동),대전광역시 서구 갈마동 366-6 ,20061228,일식,생선회,042 537 8787,NULL,36.3481677,127.368073
+170,케이디(K.D)유통(정주는돼지),"대전광역시 서구 갈마로 138 (괴정동,1층)",대전광역시 서구 괴정동 413-2 1층 ,20090729,한식,제주흑돼지 앞다리살, 042 5217777,NULL,36.3410262,127.372512
+171,(유)아웃백스테이크하우스코리아둔산점,"대전광역시 서구 대덕대로 164, 1층 (갈마동)",대전광역시 서구 갈마동 1435 ,20070813,양식,스테이크, 042 5276171,NULL,36.3476243,127.3766636
+172,연향,"대전광역시 서구 대덕대로220번길 32, 2층 (둔산동)",대전광역시 서구 둔산동 1285 ,20070813,한식,한정식, 042 4768800,NULL,36.3518591,127.380975
+173,후지산,"대전광역시 서구 둔산로137번길 21, 4층 (둔산동)",대전광역시 서구 둔산동 1469 4층 ,20080526,일식,활어회,042 471 6300,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190627_259%2F1561563685135oq5kS_JPEG%2FojRsX-vC_75V3I11wXzHhYG8.jpg,36.3522563,127.3889736
+174,복수칼국수,"대전광역시 서구 복수중로 38, 목화(아) 유치원동 (복수동)",대전광역시 서구 복수동 274-1 목화(아) 유치원동 ,20040705,한식,칼국수,042 582 5234,NULL,,
+175,금촌,대전광역시 서구 둔산중로134번길 39 (둔산동),대전광역시 서구 둔산동 925 ,20161014,한식,등심구이, 042 4823592,NULL,36.3589802,127.3890983
+176,착한감자탕,"대전광역시 서구 도산로 292-2, 1층 (가장동)",대전광역시 서구 가장동 45-1 1층 ,20040705,한식,감자탕, 042 5335225,NULL,36.3322437,127.3859042
+177,마늘장군보쌈,대전광역시 서구 도솔로 265-1 (내동),대전광역시 서구 내동 19-2 ,20150703,한식,마늘보쌈, 042 5264758,NULL,36.3334227,127.3786191
+178,위아래복집,대전광역시 서구 한밭대로707번길 15 (월평동),대전광역시 서구 월평동 286 ,20080111,한식,복매운탕, 042 4831252,NULL,36.3585703,127.3772616
+179,향우갈비촌,"대전광역시 서구 도마로 84, 1층 (도마동)",대전광역시 서구 도마동 74-10 1층 ,20051220,한식,돼지갈비,042 536 8867,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTExMDNfNDQg%2FMDAxNjM1OTA5MDk4NTY3.LT53sw1lPNxiFdPRdp5wcW65wsPCyhKdtTvUOUcc3g0g.L4rVjgv-0iAN_5oIx28cOKH55R-2ADC2zzfgE6oIgr4g.JPEG.imchuroo%2Fse%25A3%25DFone%25A3%25DF20211103%25A3%25DF120948%25A3%25DFa.jpg,36.3218896,127.3793288
+180,뜨락비빔국수,"대전광역시 서구 계백로 1377 (도마동,1층)",대전광역시 서구 도마동 190-13 1층 ,20041210,분식,비빔국수,042 486 6565,NULL,36.3111469,127.3748784
+181,을지식당가,"대전광역시 서구 둔산서로 95 (둔산동,지하1층)",대전광역시 서구 둔산동 1306 지하1층 ,20081020,한식,돌솥비빔밥, 042 4717038,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MjBfMTQz%2FMDAxNjU1NzM1Nzk1ODEw.mHxihTSf7WbV0sOQrfKciS8G5An12ZgeaTHGiF8f_jgg.ZZqearRJ7sgb58_o1fy5YaT2r14VWSU4DLj-ITOLV9cg.JPEG.judy638%2F20220531%25A3%25DF125913.jpg,36.355327,127.3820082
+182,5.5닭갈비본점,"대전광역시 서구 문정로 148, 2층 203호 (탄방동)",대전광역시 서구 탄방동 1034 ,20061016,한식,닭갈비, 042 4862315,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200517_300%2F1589694473170nMqew_JPEG%2FWYNchTgKqHR87kS3sJ3XF4XD.jpeg.jpg,36.3472613,127.3954832
+183,장수골,"대전광역시 서구 계룡로500번길 88 (갈마동,1층)",대전광역시 서구 갈마동 1379 1층 ,20060331,한식,삼겹살, 042 5229211,NULL,36.3410147,127.377388
+184,천년의 정원,"대전광역시 서구 만년로67번길 18-13 (만년동,1,2층)","대전광역시 서구 만년동 322 1,2층 ",20051007,중식,중화요리, 042 4851797,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210704_189%2F1625400780534rNAQX_PNG%2F2I4cWKen6PVuFEJCuHRiaoTB.png,36.3683568,127.3810605
+185,왕가한정식,"대전광역시 서구 만년로68번길 45 (만년동,1층)",대전광역시 서구 만년동 362 1층 ,20051007,한식,한정식, 042 4896003,NULL,36.3658075,127.3807765
+186,황제장어나라 내동점,"대전광역시 서구 도산로 245, 1층 (내동)",대전광역시 서구 내동 8-43 1층 ,20091015,한식,삽겹살구이,,NULL,36.3296144,127.3819797
+187,씨제이푸드빌(주)빕스둔산점,"대전광역시 서구 대덕대로 243, 2층 (둔산동)",대전광역시 서구 둔산동 1026 광신빌딩 ,20091015,양식,"샐러드뷔페,스테이크", 042 4720997,NULL,36.3545224,127.3789088
+188,본죽도마점,"대전광역시 서구 배재로 166 (도마동,1층)",대전광역시 서구 도마동 25-3 1층 ,20070425,한식,전복죽, 042 5241718,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210910_267%2F1631251422069sVCzx_JPEG%2Ffj-rT0LKvOcH2RQHzvUciHrd.jpg,36.3232349,127.3704985
+189,가마솥추어탕,"대전광역시 서구 계룡로571번길 23-13 (탄방동,1층)",대전광역시 서구 탄방동 687 1층 ,20061228,한식,추어탕,042 482 8118,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_6%2F1441031953205xuRqj_JPEG%2F11732125_0.jpg,36.3433008,127.386722
+190,추부추어탕,"대전광역시 서구 월평중로24번길 10, 1층 (월평동)",대전광역시 서구 월평동 531 1층 ,20060706,한식,추어탕,042 482 8897,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2F20121210_243%2Fkyj1004g_13551223888453OFCd_JPEG%2F20121207_121120.jpg,36.3564939,127.364438
+191,금촌신관,"대전광역시 서구 둔산중로 138, 지하1층 (둔산동)",대전광역시 서구 둔산동 921 지하1층 ,20170713,한식,삼겹살구이,042 476 2567,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170526_139%2F1495772892724O0OI9_JPEG%2F186476535832418_0.jpg,36.3590156,127.3872105
+192,우래정,"대전광역시 서구 도마5길 7 (도마동,1층)",대전광역시 서구 도마동 89-8 1층 ,20060331,한식,삼겹살, 042 5242210,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210118_13%2F1610961400861kyiWY_JPEG%2FCup8u7yPjBBq0h5IzKUBqaQe.jpeg.jpg,36.3164823,127.3793783
+193,곽만근갈비탕대전갈마점,"대전광역시 서구 계룡로 310, 1층 (갈마동)",대전광역시 서구 갈마동 274-2 1층 ,20121221,한식,갈비탕, 042 5223308,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMDdfMTU1%2FMDAxNTE1MjU4NzQ0NTUy.glAmBTZ_PrgsMEdhQbAwOm3EBiVSQXUHr3994SxEeh0g.4bOG-z7weY4aN6jV0cxtXIb4asEYOpQZ6RRfw1JOnhUg.JPEG.toll608%2FIMG_8739.jpg,36.3534313,127.3635482
+194,시골길,"대전광역시 서구 둔산로31번길 61 (둔산동,1층)",대전광역시 서구 둔산동 997 1층 ,20140404,한식,낙지볶음,042 487 6031,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190131_43%2F1548917183405PSLUD_JPEG%2FjoAuueyppDiXRTEwUZPn65gy.jpg,36.3545085,127.3772772
+195,지리산산골농장,"대전광역시 서구 둔산남로105번길 15, 2층 (둔산동)",대전광역시 서구 둔산동 1433 2층 ,20140707,한식,삼겹살구이,042 472 0333,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200610_268%2F1591715297515zCDiO_JPEG%2FwR8K2CCX0Y_M8yD2cCc8pb9G.jpg,36.3497664,127.3890321
+196,삼순이시골감자탕,"대전광역시 서구 복수동로 71 (복수동,1층)",대전광역시 서구 복수동 837 1층 ,20061016,한식,감자탕, 042 5869800,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190112_150%2F1547287557253boGcT_JPEG%2FgHvHQ3cPZJd2rjs9GcyFufXz.jpeg.jpg,36.2978439,127.3785707
+197,승인컴퍼니 주식회사,"대전광역시 서구 문정로 40 (탄방동,1,2층)","대전광역시 서구 탄방동 655 1,2층 ",20060706,일식,활어회,,NULL,36.3464172,127.3840784
+198,새마을식당,"대전광역시 서구 둔산중로58번길 35 (둔산동,1층)",대전광역시 서구 둔산동 1461 1층 ,20091015,한식,육계장,,NULL,36.3519594,127.3887297
+199,대관령양푼이동태찌개,"대전광역시 서구 변동로 110, 1층 일부호 (변동)",대전광역시 서구 변동 43-9 ,20061228,한식,동태찌개, 042 5367751,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_22%2F14410474286152BleJ_JPEG%2F97062575930988_0.jpg,36.3231867,127.384768
+200,양평호성할매해장국,"대전광역시 서구 둔산북로 36, 1층 104,105호 (둔산동)",대전광역시 서구 둔산동 963 ,20170428,한식,해장국, 042 4837733,NULL,36.3554272,127.3783785
+201,동방명주,"대전광역시 서구 문예로 15 (탄방동,301호)",대전광역시 서구 탄방동 732 301호 ,20061016,중식,사천탕면, 042 4863888,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170831_152%2F15041464852275H4KT_PNG%2FuqrexeV8rJ6EZ4XrmYKmG1jk.png,36.3480186,127.3898501
+202,황토우렁쌈밥,"대전광역시 서구 대덕대로234번길 29 (둔산동,1층(103호))",대전광역시 서구 둔산동 1323 1층(103호) ,20140404,한식,쌈밥,,NULL,36.353779,127.3813687
+203,본가옥해장국,"대전광역시 서구 동서대로 1052 (변동,1층)",대전광역시 서구 변동 70-38 1층 ,20070425,한식,해장국,042 523 9343,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200304_95%2F1583312314034XlEhj_JPEG%2FoOqzyb-k3ddMytfeRt-rU1gf.jpg,36.3302692,127.3777364
+204,화평동왕냉면,"대전광역시 서구 동서대로 954 (내동,1층)",대전광역시 서구 내동 152-1 1층 ,20070813,한식,돼지갈비, 042 5349255,NULL,36.3340556,127.3686804
+205,청사참치,"대전광역시 서구 둔산중로134번길 29 (둔산동,201호)",대전광역시 서구 둔산동 924 201호 ,20080526,일식,참치회,042 471 9955,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170523_174%2F1495498609669GUBDy_JPEG%2F2.jpg,36.3589774,127.3887239
+206,영희네매운갈비찜,"대전광역시 서구 신갈마로 156-12, 1층 (갈마동)",대전광역시 서구 갈마동 378-31 ,20141223,한식,갈비찜,070 81250928,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220601_245%2F1654009762638LWElG_JPEG%2F1653580769159.jpg,36.3473292,127.3690334
+207,해동토종칼국수족발,"대전광역시 서구 도림4길 52, 1층2층 (도마동)",대전광역시 서구 도마동 565-70 ,20131014,분식,칼국수, 042 5379110,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180910_222%2F15365466186950mkVp_JPEG%2Fy7XEBPtYatr9T_euj0hSajRc.jpg,36.3102619,127.3704101
+208,춘천고려닭갈비,"대전광역시 서구 도산로 270 (가장동,1층)",대전광역시 서구 가장동 39-1 1층 ,20090729,한식,닭갈비, 042 5328555,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200502_107%2F1588430150081Lb6it_JPEG%2FNWobQNfTuSmKhSNSUa4KtDsC.jpg,36.3307774,127.3843229
+209,5.5춘천닭갈비가장점,"대전광역시 서구 가장로 83-3 (괴정동,1층)",대전광역시 서구 괴정동 84-51 1층 ,20120501,한식,닭갈비, 042 5315155,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200316_126%2F1584349631856xxQ9y_JPEG%2FiwbJuLJ4t_yjFpJl_GZsqUM7.jpeg.jpg,36.3354039,127.3840615
+210,영천식육식당,"대전광역시 서구 둔산중로46번길 22 (둔산동,1층)",대전광역시 서구 둔산동 1448 1층 ,20081020,한식,등심구이, 042 4713399,NULL,36.3506098,127.3881108
+211,고향흑염소,대전광역시 서구 도솔로 88 (도마동),대전광역시 서구 도마동 107-29 ,20081020,한식,흑염소 전골, 042 5283025,NULL,36.3183038,127.3736731
+212,금강왕생삼겹,"대전광역시 서구 둔산대로117번길 95 (만년동,리더스타운 C동 1층)",대전광역시 서구 만년동 308 리더스타운 C동 1층 ,20080111,한식,생삼겹,042 486 1922,NULL,36.3694387,127.3820114
+213,한경희개성만두,"대전광역시 서구 신갈마로 15, 1층 (내동)",대전광역시 서구 내동 152-6 ,20090729,한식,만두전골,042 527 7799,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2F20150225_153%2Fbp_studio_1424861000082cfe56_JPEG%2FP1210354.jpg,36.3352533,127.3671369
+214,강남면옥,"대전광역시 서구 둔산로123번길 15 (둔산동,1층)",대전광역시 서구 둔산동 1410 1층 ,20090729,한식,"갈비탕,냉면", 042 4729996,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190724_8%2F15639432871411Jyp3_JPEG%2F6kFzL599wLSCFMaRBZVNtQZo.jpg,36.3519717,127.3874261
+215,금래원,"대전광역시 서구 배재로91번길 34, 1층 (도마동)",대전광역시 서구 도마동 329-1 1층 ,20161213,중식,짜장면, 042 5313373,NULL,36.3170851,127.3693541
+216,립스틱해물뚝배기,"대전광역시 서구 둔산대로117번길 95, B동 101호 (만년동)",대전광역시 서구 만년동 306 B동 101호,20081229,한식,해물찜,042 483 8877,NULL,36.3692968,127.3817551
+217,초원본가,"대전광역시 서구 계룡로571번길 23-15 (탄방동,1층)",대전광역시 서구 탄방동 687-1 1층 ,20091015,한식,등심구이, 042 4881667,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA5MjhfNyAg%2FMDAxNTA2NTI4MzE4MzM1.hEpP8gToqWfRMt3WfTqUrtiJukQKHScciOL6PmqGr50g.09oENz6DooLBNASc0CmmQmyXWZi2Box9XshPkphtJPcg.JPEG.lilac1010%2F1506528304380.jpg,36.3433298,127.3865825
+218,정일품두손두부,"대전광역시 서구 둔산대로117번길 34, 1층 (만년동)",대전광역시 서구 만년동 380 ,20170713,한식,두부,042 484 8004,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210312_119%2F16155597606974Ki3N_JPEG%2FqjzlwXTft8Iwk9qBDZK57HuC.jpeg.jpg,36.3664379,127.3826079
+219,도솔촌,"대전광역시 서구 배재로 78 (도마동,102호)",대전광역시 서구 도마동 335-35 102호 ,20131230,한식,닭백숙,042 527 8787,NULL,36.3153265,127.3710186
+220,(주)인디,"대전광역시 서구 대덕대로 246 (둔산동,B동 102호)",대전광역시 서구 둔산동 1369 B동 102호 ,20091217,기타,커리,042 471 7052,NULL,36.3547091,127.3799909
+221,크래버 대게나라,"대전광역시 서구 둔산서로 17 (둔산동,(1층))",대전광역시 서구 둔산동 1254 (1층) ,20140404,한식,대게찜,042 477 1002,NULL,36.3482238,127.382598
+222,만년애한우바보곰탕,"대전광역시 서구 둔산대로117번길 95 (만년동,리더스타운 A동 201호)",대전광역시 서구 만년동 306 리더스타운 A동 201호 ,20091015,한식,곰탕,042  4884292,NULL,36.3692152,127.3817136
+223,장수촌버섯이야기,"대전광역시 서구 도산로 262 (가장동,(1층))",대전광역시 서구 가장동 39-40 (1층) ,20090729,한식,동충하초샤브샤브,042 524 2798,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200623_134%2F1592883540818MhFD7_JPEG%2Ffp_We5WW-w18WUy5iZAFqPvc.JPG.jpg,36.3304556,127.3837864
+224,총체보리한우타운,"대전광역시 서구 만년로 80 (만년동,(1층))",대전광역시 서구 만년동 343 (1층) ,20150327,한식,한우구이,042 482 0985,NULL,36.3670471,127.3817217
+225,토담낙지한마당,"대전광역시 서구 둔산로123번길 28 (둔산동,(1층))",대전광역시 서구 둔산동 1474 (1층) ,20110429,한식,낙지볶음,042 489 5330,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200506_196%2F1588774058760rP9NR_JPEG%2FceYjulOYHTaCAw5sAqLvO9Ww.jpg,36.3525576,127.387973
+226,제주유기농쌈밥촌,"대전광역시 서구 복수남로 17 (복수동,(1층))",대전광역시 서구 복수동 841 (1층) ,20091217,한식,쌈밥,042 583 7707,NULL,36.297472,127.3791549
+227,허허감자탕,"대전광역시 서구 도솔로305번길 64 (괴정동,(1층))",대전광역시 서구 괴정동 116-25 (1층) ,20161014,한식,감자탕,042 537 3889,NULL,36.3379827,127.3794172
+228,백마강숯불민물장어,"대전광역시 서구 변동중로 67 (변동,외3필지 (1층))",대전광역시 서구 변동 71-6 외3필지 (1층) ,20111114,한식,장어구이,042 526 1881,NULL,36.3299357,127.3765183
+229,수복삼계탕,"대전광역시 서구 둔산중로 66 (둔산동,(매트로팰리스 109,110호))","대전광역시 서구 둔산동 1405 (매트로팰리스 109,110호) ",20110429,한식,삼계탕,042 489 8233,NULL,36.3525506,127.3872136
+230,갈비가,"대전광역시 서구 유등로65번길 13 (복수동,(1층))",대전광역시 서구 복수동 694 (1층) ,20100722,한식,소고기 구이,042 585 8388,NULL,36.298862,127.381286
+231,명품묵은정,"대전광역시 서구 둔산로74번길 25, 1층 (둔산동)",대전광역시 서구 둔산동 1209 1층 ,20150327,한식,묵은지찜,042 472 3921,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150825_205%2F14404800945962B8q9_JPEG%2F166775545151922_0.jpg,36.3500936,127.3821989
+232,심청아배고파,"대전광역시 서구 도솔로 78, 1층 (도마동)",대전광역시 서구 도마동 106-14 1층 ,20101104,한식,삼겹살,042 522 7792,NULL,36.3175096,127.3736471
+233,엘에이농장,"대전광역시 서구 둔산로137번길 17 (둔산동,(1층))",대전광역시 서구 둔산동 1460 (1층) ,20160711,한식,소갈비,042 482 9291,NULL,36.3520637,127.389032
+234,500돈,"대전광역시 서구 둔산남로105번길 18 (둔산동,(1,2층))","대전광역시 서구 둔산동 1492 (1,2층) ",20150327,한식,삼겹살,042 483 5641,NULL,36.3498066,127.3894863
+235,샤브향관저점,"대전광역시 서구 구봉로131번길 38 (관저동,(2층203,204,205호))","대전광역시 서구 관저동 1518 (2층203,204,205호) ",20111223,한식,샤브샤브,042 542 9914,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211114_272%2F1636883574734EyWtX_JPEG%2F%25B3%25BB%25BA%25CE%25BB%25E7%25C1%25F81.jpg,36.2944985,127.3329295
+236,오지다다복수육국밥,"대전광역시 서구 월평북로 89 (월평동,(1층))",대전광역시 서구 월평동 239 (1층) ,20120501,한식,콩나물해장국,042 472 7888,NULL,36.3624142,127.3783285
+237,쌈채우리,"대전광역시 서구 대덕대로176번길 51 (둔산동,(지하1층))",대전광역시 서구 둔산동 1133 (지하1층) ,20131014,한식,쌈밥,042 488 9991,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDAyMTFfMTE4%2FMDAxNTgxNDA2NzgyMDk0.bNmgIgbqCedzOfUTINe5kK-mH9imbK89K_o9ua9d-jog.zY0JlYUh_p8I1TtkAeWtE4JOvrgA3JxDI-Yro4i6dD4g.JPEG.rose7166%2F20200211_114837.jpg,36.3471046,127.3789694
+238,쌍둥이수육국밥,"대전광역시 서구 청사서로 8 (월평동,(1층))",대전광역시 서구 월평동 297 (1층) ,20130722,한식,수육국밥,042 472 1420,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAyMjdfMjIy%2FMDAxNjE0MzUyNzg0Nzk3.8pe6IAvARPke2opjO9x_QuXp4ACu_kdAQxyKEg0zWXUg.Wgzk9zeQrQnPb7jT8qIbeLVYiCu2gIP74eQuG6GgTyQg.JPEG.c2hun2%2F1614352009141.jpg,36.3584828,127.3768924
+239,일등석갈비,"대전광역시 서구 둔산대로117번길 17 (만년동,(3층))",대전광역시 서구 만년동 358 (3층) ,20121221,한식,석갈비,042 625 0620,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220708_47%2F1657264633283XWWfe_JPEG%2F20220524_113530.jpg,36.365748,127.3819827
+240,온누리샤브샤브,"대전광역시 서구 동서대로 1147, 1층 (가장동)",대전광역시 서구 가장동 32-23 1층 ,20170707,한식,샤브샤브,042 534 5292,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210425_92%2F1619340883608pDVtj_JPEG%2FPLztruFgBpI83NQHczUejWaF.jpeg.jpg,36.3280261,127.3878775
+241,쌈꾼,"대전광역시 서구 변동로 110, 1층 (변동)",대전광역시 서구 변동 43-9 1층 ,20130722,한식,"김치찌개,삼겹살",042 523 3393,NULL,36.3231867,127.384768
+242,여자만장어구이,"대전광역시 서구 만년로68번길 38, 1층 (만년동)",대전광역시 서구 만년동 367 ,20131230,한식,장어구이,042 486 6687,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_180%2F1441056961924EfjT6_JPEG%2F156155408648809_0.jpg,36.3653387,127.3805651
+243,손수차림,"대전광역시 서구 신갈마로 3, 1층 (내동)",대전광역시 서구 내동 152-26 1층 ,20130430,한식,숯불구이,042 525 3338,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA3MjdfMTQ5%2FMDAxNTk1ODI4ODExMDkz.eaxp9LcZJ0l_wicgPsPM-KhGlncyXGDjxSUAoRA53tQg.WOT6SZ5mah1_mZjmzMQ2iWEFVCLJ1geKO8ecNIZ4Fbgg.JPEG.honginzu%2F%25BC%25D5%25BC%25F6%25C2%25F7%25B8%25B2_%25289%2529.jpg,36.3370254,127.3666681
+244,베스타까르르스타,"대전광역시 서구 만년로 70, 9~11층 (만년동)",대전광역시 서구 만년동 339 ,20130722,뷔페,뷔페,042  4873366,NULL,36.3669068,127.3805616
+245,토종칼국수,"대전광역시 서구 신갈마로 172, 2층 (갈마동)",대전광역시 서구 갈마동 338-7 ,20130722,분식,냉채족발,042 535 9055,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MTVfMjE4%2FMDAxNjU1MjY4NzE0NTY2.r8rjd0V_teWJw3980Bg4o5ABQf0qBdbGb6HKHtgTaN4g.gUyQd118cvjvnpyPxcaG9h8__vgXc-5KgyFHry3AZJgg.JPEG.aloha_peach%2Foutput_3488246866.jpg,36.3489983,127.3686935
+246,김삿갓,"대전광역시 서구 둔산남로105번길 28, 1층 (둔산동)",대전광역시 서구 둔산동 1489 1층 ,20170428,한식,"족발, 보쌈",042 489 0080,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MTJfMjc0%2FMDAxNjU1MDI1NTI4Mjk1.eyssAEdvmt7z1hUdmmPDPIJpbWT72OH0BmEpcW_MIiQg.crHpnDngMBPOETgeHhuHQKZvXvSBq2ad6ICmYxTC-MUg.JPEG.annagwon12%2FIMG_5933.jpg,36.3502338,127.3894886
+247,로보쿡둔산점,"대전광역시 서구 둔산로 15, 1층,지하1층 (둔산동)","대전광역시 서구 둔산동 970 (1층,지하1층) ",20141223,양식,화덕피자,042 471 5009,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151109_74%2F14470459290905y7GU_JPEG%2F166775545070475_16.jpg,36.3539296,127.3756663
+248,하늘한식부페,"대전광역시 서구 둔산중로 54, 15층 (둔산동)",대전광역시 서구 둔산동 1412 ,20141013,한식,부페,042 485 5577,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzEwMTZfNzEg%2FMDAxNTA4MTI3MzYyNzQ0.WZKZcgdygp9LEqvLKV8BgyHbPAbLh9yL3h4QLyeVTxcg.JtUioB4QYuX98lbQqZ8szCJKgdz8Oak4H6w1YkEYsJcg.JPEG.kimmiae1106%2F20171016_120520.jpg,36.3515672,127.387114
+249,경복궁앤삿뽀로,"대전광역시 서구 대덕대로 366, 2층 (만년동)",대전광역시 서구 만년동 282 2층 ,20170428,한식,등심구이,042 482 7766,NULL,36.3654908,127.3800123
+250,구룡포자연산막회,"대전광역시 서구 청사로123번길 11, 2층 (월평동)",대전광역시 서구 월평동 275 2층 ,20141013,일식,자연산막회,042 221 1880,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180313_131%2F15209053628221GNNB_PNG%2Fcwby6J_9wlRuMLJ__ErPLVcW.png,36.3603594,127.3772874
+251,소나무풍경,"대전광역시 서구 괴정로116번길 42, 1층 (괴정동)",대전광역시 서구 괴정동 85-2 1층 ,20171030,한식,곰탕,042 525 9925,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200206_52%2F1580975377242jXHBC_JPEG%2FU3J_Y-nB4XcamqIe-mX8yPkt.jpeg.jpg,36.336375,127.3836172
+252,양지식당,대전광역시 서구 갈마로 46 (갈마동),대전광역시 서구 갈마동 363-5 ,20160324,한식,삼겹살,042 527 2238,NULL,36.3481309,127.3691317
+253,착한낙지 정림점,"대전광역시 서구 계백로 1269, 1층 (정림동)",대전광역시 서구 정림동 267 1층 ,20141223,한식,"낙지볶음, 연포탕",042 536 0076,NULL,36.3079077,127.3637513
+254,스시오니,"대전광역시 서구 대덕대로234번길 46, 1층 (둔산동)",대전광역시 서구 둔산동 1309 1층 ,20151020,일식,활어회,042 472 3355,NULL,36.3532933,127.3822594
+255,구르메,"대전광역시 서구 둔산대로117번길 22, 2층 (만년동)",대전광역시 서구 만년동 377 2층 ,20150327,한식,한정식,042 472 0776,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150916_249%2F1442381513026nIRpq_JPEG%2F11726094_16.jpg,36.3658988,127.3825643
+256,갑부본가,"대전광역시 서구 계백로 1145, 좋은빌딩 1층 101,102,103호 (가수원동)",대전광역시 서구 가수원동 1051 좋은빌딩 ,20150703,한식,석갈비,042 538 1800,NULL,36.3023209,127.3527746
+257,보성이네생삼겹살전문점,"대전광역시 서구 용소로12번길 6-11, 1층 (가수원동)",대전광역시 서구 가수원동 921 1층 ,20170428,한식,삼겹살,042 546 7892,NULL,36.3090307,127.3412801
+258,진성아구찜,대전광역시 서구 도안동로31번길 20-16 (가수원동),대전광역시 서구 가수원동 932 ,20151020,한식,아구찜,042 541 3940,NULL,36.3023209,127.3527746
+259,대대로감자탕,"대전광역시 서구 둔산중로134번길 21, 1층 110호 (둔산동)",대전광역시 서구 둔산동 923 ,20150703,한식,감자탕,042 482 6767,NULL,36.3589924,127.388141
+260,참맛있는칼국수,"대전광역시 서구 청사서로54번길 17, 2층 (월평동, 2층일부)",대전광역시 서구 월평동 229 ,20151230,한식,칼국수,042 483 9259,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180502_284%2F1525219486433aPaif_JPEG%2FJZ_v835NA4toIWRl6R8M583O.jpg,36.3627424,127.3776596
+261,추성순대족발,"대전광역시 서구 둔산중로134번길 39, 1층 108호 (둔산동)",대전광역시 서구 둔산동 925 ,20151230,한식,순대국밥,042 824 2620,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170430_10%2F1493537348112HM44c_JPEG%2Fimage_%25283%2529.jpg,36.3589802,127.3890983
+262,시온성,"대전광역시 서구 구봉산북로280번길 12, 1층 (관저동)",대전광역시 서구 관저동 1613-1 ,20161014,중식,짜장면,042 541 1700,NULL,36.3068199,127.3346143
+263,토종칼국수 복수점,"대전광역시 서구 복수남로 6, 1층 (복수동, 1층일부)",대전광역시 서구 복수동 729 ,20170428,한식,칼국수,042 581 5662,NULL,36.2972839,127.3805904
+264,까치돌구이,"대전광역시 서구 문정로89번길 32, 1층 (탄방동, 1층일부)",대전광역시 서구 탄방동 733 ,20160324,한식,삼겹살,042 472 0492,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170920_137%2F1505871408636NbEmj_JPEG%2FCWJVFLhkUkw_KYnKHXPgB4DU.JPG.jpg,36.3481979,127.3894822
+265,오가네대구왕뽈떼기,"대전광역시 서구 갈마로 36, 1층 (갈마동)",대전광역시 서구 갈마동 338-3 ,20161213,한식,대구뽈찜,042 526 3007,NULL,36.3490722,127.36886
+266,한우전문점 눈꽃,"대전광역시 서구 둔산남로 100, 8층 (탄방동)",대전광역시 서구 탄방동 724 ,20171226,한식,등심구이,042 485 7796,NULL,36.3487028,127.3886538
+267,(주)유성컨트리클럽본관식당,대전광역시 유성구 현충원로 200 (덕명동),대전광역시 유성구 덕명동 215-7 ,20040901,,전골, 042 8227103,NULL,36.354013,127.2903348
+268,숯골원조냉면식당,대전광역시 유성구 신성로 122 (신성동),대전광역시 유성구 신성동 166-1 ,20110405,,"냉면,백숙", 042 8616730,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MDdfNTgg%2FMDAxNjU5ODQyMzE4ODM2.3etHjncxwgbd98KKcXGwreP1y0QOVwrjv2EIktH86Ogg.zBag737RKn_zIWk2Vzs14-s4zqDdbGxnQXr3fJ2Qmugg.JPEG.jm9332103%2FKakaoTalk_20220807_120644634_04.jpg,36.3931234,127.3522737
+269,유성삼겹살,대전광역시 유성구 계룡로59번길 9 (봉명동),대전광역시 유성구 봉명동 469-30 ,20040901,,불고기류전문, 042 8235222,NULL,36.3554087,127.3375369
+270,연래춘대반점식당,대전광역시 유성구 대학로 78 (궁동),대전광역시 유성구 궁동 482-8 외 1필지 ,20040901,,중국음식(자장면등), 042 8251177,NULL,36.3604666,127.3444326
+271,삼복가든,"대전광역시 유성구 온천서로 32-18, 지상1층 (봉명동)",대전광역시 유성구 봉명동 440-18 ,20130429,한식,"생갈비,생등심",042 822 5949,NULL,36.3571392,127.3413139
+272,나들이 일식,"대전광역시 유성구 온천로 44, 지상2층 (봉명동)",대전광역시 유성구 봉명동 551-2 지상2층 ,20111227,,"생선회,참치", 042 8255548,NULL,36.3549434,127.3425413
+273,장수진곰탕,"대전광역시 유성구 온천서로 26, 지상1층 (봉명동)",대전광역시 유성구 봉명동 441-14 ,20130429,한식,곰탕,042 822 3131,NULL,36.35655,127.3402025
+274,임진강장어,"대전광역시 유성구 문화원로 143, 지상1층 (봉명동)",대전광역시 유성구 봉명동 666-2 지상1층 ,20090929,,장어구이,042  8259200,NULL,36.3583902,127.3517059
+275,미소정,대전광역시 유성구 노은서로142번길 47 (지족동),대전광역시 유성구 지족동 887 ,20040901,,"쭈꾸미양념구이, 우렁쌈밥, 돼지갈비", 042477 0933,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200604_28%2F1591251544954pfiwV_JPEG%2FzezYtleCGEmqeMCZqJHK0CKQ.jpg,36.3744073,127.3158657
+276,김영희 강남동태찜,"대전광역시 유성구 은구비로 2, 1층 (지족동)",대전광역시 유성구 지족동 884-1 ,20040901,,"동태찜,탕", 042 4778063,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAzMDhfNTMg%2FMDAxNjE1MjA2OTE3MzU0.Et_JakIuO1MOgdmrz-dH2MiNbd_0t-8eYypVTk18aEsg.ZQ_MXZi-kHP2knuB_hvmNvr3FURtgSSYOSiXTEBuacwg.JPEG.jooblack03%2FIMG_4147.jpg,36.3757216,127.3154496
+277,식후경,대전광역시 유성구 북유성대로 393 (외삼동),대전광역시 유성구 외삼동 334 ,20050411,,"석갈비, 훈제오리", 042 8245656,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200220_77%2F1582174931726LszNU_JPEG%2FYV6hMWqdhlIzCuUeKJE7Tpcw.jpg,36.39905,127.3091883
+278,화평동 왕냉면,대전광역시 유성구 문화원로 124 (봉명동),대전광역시 유성구 봉명동 642-1 ,20080717,,"돼지갈비,냉면", 042 8230071,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_260%2F1441027625188HYsT0_JPEG%2F96368506639468_0.jpg,36.3582758,127.3493937
+279,어수사일식,"대전광역시 유성구 온천로 22, 지상1층 (봉명동)",대전광역시 유성구 봉명동 445-3 1층 ,20051004,,"생선회,초밥",042 825 4949,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190130_69%2F1548830029943SkoEo_JPEG%2FmuolC0lD6_VN1hjDzbaJ0Xxw.jpeg.jpg,36.3552999,127.3403512
+280,채울,대전광역시 유성구 진잠로78번길 48 (원내동),대전광역시 유성구 원내동 309-4 ,20050701,,감자탕, 042 5425533,NULL,36.2990395,127.3186232
+281,대전맛집 풍국면 봉명점,"대전광역시 유성구 온천동로65번길 39, 지상1층 101,102,103호 (봉명동, 노블레스투)","대전광역시 유성구 봉명동 692-1 노블레스투 1층 101,102,103호 ",20160406,한식,간장게장,042 826 4640,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220908_61%2F1662632604260FjVGn_JPEG%2F1662277386576%25A3%25AD11.jpg,36.3568891,127.3506108
+282,고려한방삼계탕,"대전광역시 유성구 문화원로14번길 42, 지상1층 (장대동)",대전광역시 유성구 장대동 360-10 1층 ,20080717,,삼계탕,042 823 2330,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190131_204%2F1548945241973nQe3N_JPEG%2FyBdfy8SnxY9RmQ40i1NfhJ_z.jpg,36.3596431,127.3380938
+283,도안동감나무집(관평점),"대전광역시 유성구 테크노중앙로 54, 지상2층 201,202호 (관평동)","대전광역시 유성구 관평동 943 외 1필지 지상2층 201,202호",20121025,,"오리수육, 누룽지백숙",042 935 3350,NULL,36.4260265,127.3913313
+284,외양간 암돼지,"대전광역시 유성구 문화원로10번길 2, 지상1층 101호 (장대동)",대전광역시 유성구 장대동 356-23 지상1층 101호 ,20151216,육류,소고기 구이, 042 8252860,NULL,36.3612988,127.3371371
+285,살루떼,"대전광역시 유성구 엑스포로 240, 1층 (원촌동)",대전광역시 유성구 원촌동 48-2 1층 ,20111004,경양식,"스테이크,스파게티",042 862 0052,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151209_63%2F1449631386770zgEql_JPEG%2F167159525323208_13.jpg,36.3777176,127.4056516
+286,리원,"대전광역시 유성구 테크노중앙로 155 (용산동, 테크노피아 2층 201~204 3층 301~304)",대전광역시 유성구 용산동 575 테크노피아 2층 201~204 3층 301~304 ,20091216,,중국요리,042 671 8888,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200712_30%2F1594558742687NxW8h_JPEG%2FNIqt72HejxRZXcQyJk0KQrmr.jpg,36.4227456,127.4008603
+287,송정설렁탕,"대전광역시 유성구 온천로 53, 지상1층 102호,103호 (봉명동)","대전광역시 유성구 봉명동 537-6 대양오피스텔 지상1층 102호,103호 ",20170629,한식,설렁탕,042 826 1228,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200221_160%2F1582271959712NKkQ1_JPEG%2Fimage.jpg,36.3556328,127.3439954
+288,토종칼국수,"대전광역시 유성구 노은서로 61, 지상1층 (노은동)",대전광역시 유성구 노은동 564-5 1층 ,20091216,,칼국수,042 822 1118,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151209_134%2F1449631336781ygw7E_JPEG%2F167159525235614_0.jpg,36.3660439,127.3125825
+289,띠울석갈비(테크노점),"대전광역시 유성구 테크노4로 57, 지상1층 (관평동)",대전광역시 유성구 관평동 748 지상1층 ,20100408,,"석갈비,갈비탕",042 935 3535,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAyMjhfMjIw%2FMDAxNTE5ODE0NDEzMzAz.3Tpb_lrfW7bGjjn935XRNvrgyex30hXeLJ8JbNvbgYkg.dAZCymio2u6hwyOuu4vCL99v2cmxkii4AJ6eusZ3Basg.JPEG.apple1430%2F20180228_184759.jpg,36.4288931,127.3921766
+290,예가,"대전광역시 유성구 은구비로 8, 지상1층 (지족동)",대전광역시 유성구 지족동 884-3 1층 ,20120717,한식,석갈비, 042 8255370,NULL,36.3757259,127.3160414
+291,샤브향 관평점,"대전광역시 유성구 테크노중앙로 55, 지상1층 102호 (관평동, 에이스타워)",대전광역시 유성구 관평동 798 에이스타워 1층 102호,20111004,한식,"월남쌈,샤브샤브",042 936 9233,NULL,36.4264424,127.3917742
+292,옛날숯불갈비,"대전광역시 유성구 계룡로74번길 13-7, 지상1층 (봉명동)",대전광역시 유성구 봉명동 447-10 1층 ,20110719,,"소갈비,돼지갈비", 042 8227055,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200710_176%2F15943611073638V3TE_JPEG%2FhVG-Fu62BX_URaGU30BXZRAS.JPG.jpg,36.3538391,127.3393964
+293,인디,"대전광역시 유성구 테크노중앙로 32, 지상2층 202,203호 (관평동)","대전광역시 유성구 관평동 806 2층 202,203호 ",20110405,,"인도요리(커리,탄두리)", 042 4717052,NULL,36.4269254,127.3890972
+294,동두천철판부대찌개,"대전광역시 유성구 반석동로34번길 39, 지상1층 (반석동)",대전광역시 유성구 반석동 644-8 지상1층 ,20160406,한식,부대찌개,042 826 6071,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200209_218%2F1581214294016Dyicc_JPEG%2FsEZmK2IP9YAOeBpWW578E-Bc.jpg,36.3908417,127.314373
+295,오시오칼국수,"대전광역시 유성구 노은로410번길 8 (하기동,지상1층1동)",대전광역시 유성구 하기동 345-1 지상1층1동 ,20111004,분식,칼국수,042 822 1016,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_67%2F1441028810910sxkNM_JPEG%2F20030912_0.jpg,36.3906796,127.3291474
+296,착한낙지,"대전광역시 유성구 유성대로654번길 22, 지상1층 (구암동)",대전광역시 유성구 구암동 624-1 1층 ,20120717,한식,낙지요리,042 822 5480,NULL,36.3516597,127.3304572
+297,박가원옻닭,"대전광역시 유성구 대학로76번안길 62, 지상1층 (궁동)",대전광역시 유성구 궁동 490-11 ,20131023,한식,"돌솥밥,포천이동갈비",042  4722388,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220529_151%2F1653830801902rewmy_JPEG%2F20220526_153231.jpg,36.3602142,127.3467111
+298,샤브향(노은점),"대전광역시 유성구 노은로 71, 지상1층 101호 (노은동, 노은스타돔아파트)",대전광역시 유성구 노은동 553-8 노은스타돔아파트 지상1층 101호,20121025,,월남썀샤브,042 256 2002,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_8%2F14410804347752hIwb_JPEG%2FSUBMIT_1330515578436_21214978.jpg,36.3660755,127.3172755
+299,라마띠네,"대전광역시 유성구 유성대로1689번길 69, 지상1층 (전민동)",대전광역시 유성구 전민동 460 지상1층 ,20130719,한식,"고추장양념구이,한방오리백숙",042 865 3111,NULL,36.4044297,127.3921041
+300,원조쌈밥 대전유성점,"대전광역시 유성구 상대동로2번길 65, 지상1층 (상대동)",대전광역시 유성구 상대동 477-1 지상1층 ,20141127,한식,쌈밥,042 825 3534,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181207_289%2F1544160606367zneNQ_JPEG%2F87LlEuNZDCxKVsz_hc8CtfxU.jpg,36.3432783,127.3351479
+301,더함뜰,"대전광역시 유성구 동서대로 181, 1층 (덕명동)",대전광역시 유성구 덕명동 171-13 1층 ,20140703,한식,"한정식, 돼지갈비",042 823 9293,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210416_109%2F1618556551853QgKfT_JPEG%2FTunQ7ZCsPuCySkEfiu7zx6RV.jpg,36.3462195,127.295597
+302,제주유기농쌈밥촌(본점),"대전광역시 유성구 진잠로150번길 75, 지상1층 (원내동)",대전광역시 유성구 원내동 228-1 지상1층 ,20140930,한식,유기농쌈밥,042 541 8834,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180409_262%2F15232327571420mrLU_JPEG%2FQSv2TdVJTn5-VPd4OvotGXK7.jpg,36.3002264,127.3189224
+303,라라코스트(관평점),"대전광역시 유성구 관평2로 32, 지상2층 (관평동)",대전광역시 유성구 관평동 923 지상2층 ,20150630,양식,"파스타, 화덕피자",070 82483230,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201230_31%2F1609303732475VoUg1_JPEG%2FNtGajSkLExjVbJX-sEzOZM6J.jpg,36.4239417,127.3893358
+304,한마음면옥,"대전광역시 유성구 학하서로77번길 17, 지상1층 (계산동)",대전광역시 유성구 계산동 711-3 지상1층 ,20140930,한식,냉면,042 822 0159,NULL,36.3375779,127.2942941
+305,춘수사,"대전광역시 유성구 온천북로33번길 21-8, 지상2층 (봉명동)",대전광역시 유성구 봉명동 630-4 지상2층 ,20141127,일식,"생선회,초밥",042 825 9033,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200417_63%2F1587113647505k3H8y_JPEG%2F1wqvImfprttJ68tgWJSbsC7E.jpg,36.3580005,127.3465079
+306,하누정,"대전광역시 유성구 월드컵대로308번길 21-10, 지상1층 (상대동)",대전광역시 유성구 상대동 453-3 지상1층 ,20161011,한식,"등심, 안창",042 823 3337,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_122%2F1440995302386BfRaY_JPEG%2FSUBMIT_1417838700952_35357077.jpg,36.347061,127.3347066
+307,유성봉명한우,"대전광역시 유성구 계룡로74번길 55, 지상2층 (봉명동)",대전광역시 유성구 봉명동 556-21 지상2층 ,20150925,한식,한우모듬,042 822 7176,NULL,36.3519389,127.3383529
+308,늘봄한우,"대전광역시 유성구 문화원로 129, 지상1층 102호 (봉명동)",대전광역시 유성구 봉명동 662-5 봉명매드진빌딩 지상1층 102호 ,20150925,한식,소고기모듬,042 825 3092,NULL,36.3586899,127.3501278
+309,기린더매운갈비찜,"대전광역시 유성구 봉명서로 51-10, 지상1층 (봉명동)",대전광역시 유성구 봉명동 1031-7 지상1층 ,20161011,한식,돼지갈비찜,042 824 9778,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190307_150%2F15519309155221JlTi_JPEG%2F2ExBEWVbT5LY191N0gZzaXCU.jpg,36.3531722,127.3454011
+310,유생촌,"대전광역시 유성구 엑스포로 240, 지상1층 (원촌동)",대전광역시 유성구 원촌동 48-2 지상1층 ,20161011,한식,돈가스,042 864 3200,NULL,36.3777176,127.4056516
+311,교동면옥 대전구암점,"대전광역시 유성구 월드컵대로 289, 지상2층 (구암동)",대전광역시 유성구 구암동 620-5 지상2층 ,20160406,한식,돼지갈비,042 822 9291,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200402_59%2F1585826127079XTvdN_JPEG%2FrJtNhThIqn2feBlkMwdRR7mw.jpg,36.349003,127.3324151
+312,영화반점,"대전광역시 대덕구 신탄진동로23번길 46 (신탄진동,(1층))",대전광역시 대덕구 신탄진동 139-17 (1층) ,20081231,중식,"탕수육,삼선짜장", 042931 4158,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MjBfMTc1%2FMDAxNjYzNjEwMTk0MDAz.vIBPWVZssENyDzpwcOfCKw9a5GU8j8uJX2SGDeBbcCEg.gB43scLKizT4DJyWm7ASylbWU6gGMWWgFD7wQcMZVYgg.JPEG.yookjihye%2FIMG_8185.jpg,36.449803,127.4315863
+313,이가촌,대전광역시 대덕구 아리랑로 141 (읍내동),대전광역시 대덕구 읍내동 360-3 ,19940615,,삼겹살, 042 6313900,NULL,36.3737831,127.419844
+314,순민물장어구이식당,대전광역시 대덕구 신탄진동로24번길 9 (신탄진동),대전광역시 대덕구 신탄진동 156-7 ,20111228,한식,장어구이, 042 9321946,NULL,36.4473891,127.4322587
+315,황해면옥식당,대전광역시 대덕구 한남로149번길 1 (오정동),대전광역시 대덕구 오정동 490-1 ,20010404,,돼지갈비, 042 6257798,NULL,36.3469878,127.4143878
+316,구미횟집,대전광역시 대덕구 신탄진동로 60 (신탄진동),대전광역시 대덕구 신탄진동 150-2 ,20140711,생선회,활어회, 042 9325912,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210809_118%2F16284804374639zWJM_JPEG%2Fi7czcxnBPxhvIwxvgKkZFfNP.jpg,36.4481564,127.4359455
+317,꽃돼지하우스식당,대전광역시 대덕구 덕암북로72번길 30 (덕암동),대전광역시 대덕구 덕암동 11-6 ,20040408,한식,생삼겹살, 042 9333710,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201126_142%2F1606391117218XXByk_JPEG%2FazBmmf5l6T4rZKRZbdY05rPW.jpeg.jpg,36.442949,127.4242364
+318,옥순네추어칼국수,"대전광역시 대덕구 송촌남로 21-1, 1층 (송촌동)",대전광역시 대덕구 송촌동 246-12 ,20091230,,"추어칼국수, 추어탕", 042 6327640,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_38%2F1441059958103KNImU_JPEG%2F106363547842095_0.jpg,36.3538341,127.4414042
+319,장수촌식당,"대전광역시 대덕구 신탄진로 512, 1층 (상서동)","대전광역시 대덕구 상서동 349-1 ,3,13,396-1,8(1층) ",20080407,,"누룽지삼계탕, 쟁반막국수",042 934 7510,NULL,36.4246465,127.4202543
+320,갈밭식당,대전광역시 대덕구 대청호수로 1553 (갈전동),대전광역시 대덕구 갈전동 238-8 ,20020415,,매운탕, 042 9323872,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_42%2F1441057012146YN8eq_JPEG%2F156155406849106_0.jpg,36.4276562,127.4653652
+321,임단아갈비탕전문점,"대전광역시 대덕구 신탄진동로 13, 1층 (신탄진동)","대전광역시 대덕구 신탄진동 154-5 ,29 ",19991206,,갈비탕,042 935 2837,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210720_159%2F1626774308695QN1Fq_JPEG%2F5NA5Z4PbdhDX8IRSINp4uHX9.jpg,36.4478666,127.4309143
+322,설악칡냉면,대전광역시 대덕구 덕암북로58번길 7 (덕암동),대전광역시 대덕구 덕암동 9-7 ,20080707,,"칡냉면, 돼지갈비, 갈비탕",042 933 5252,NULL,36.4447132,127.423389
+323,이조갈비식당,대전광역시 대덕구 신탄진동로23번길 51 (신탄진동),대전광역시 대덕구 신탄진동 141-6 ,20081230,,"돼지갈비,삼겹살", 042 9329050,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190130_26%2F1548831344499sJIkx_JPEG%2FgVVDmCdh4VGAnvE6N7i_D4xj.jpeg.jpg,36.4500489,127.4311851
+324,설악추어탕식당,"대전광역시 대덕구 대덕대로1458번길 8, 1층 (목상동)",대전광역시 대덕구 목상동 147-2 (1층) ,20070702,한식,추어탕, 042 9324466,NULL,36.4479074,127.4107065
+325,늘봄식당,대전광역시 대덕구 신탄진동로 38-1 (신탄진동),대전광역시 대덕구 신탄진동 160-2 ,20081230,,"차돌박이,돼지갈비", 042 9327282,NULL,36.4477683,127.4337362
+326,콩마니손두부,"대전광역시 대덕구 동춘당로44번길 12, 1층 (송촌동)",대전광역시 대덕구 송촌동 504-5 (1층) ,20100705,,"손두부,두부전골,청국장",042 626 5288,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190701_55%2F1561978227635IEyu9_JPEG%2FAIH7objRnkoPwcTqDJoU45o5.jpg,36.3627958,127.4448257
+327,신모란식당,대전광역시 대덕구 석봉로44번길 39 (석봉동),대전광역시 대덕구 석봉동 180-17 ,20020415,,삼겹살, 042 9320325,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200216_215%2F1581845174954HrtCi_JPEG%2FVB32PoPx8PdHjksfQgWyXZ-b.jpeg.jpg,36.445459,127.4268615
+328,홍콩삼겹살식당,대전광역시 대덕구 계족산로81번길 11 (송촌동),대전광역시 대덕구 송촌동 475-4 ,20060925,,생삼겹살, 042 6286755,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_24%2F1441065513851TqUCB_JPEG%2FSUBMIT_1374641161000_16040129.jpg,36.3636408,127.4399312
+329,리에또식당,대전광역시 대덕구 선비마을로6번길 29 (송촌동),대전광역시 대덕구 송촌동 551-5 ,20080707,,"치킨스테이크, 해물스파케티, 고구마피자",6387060,NULL,36.3616051,127.4471185
+330,나래원식당,"대전광역시 대덕구 비래동로16번길 13, 1층 (비래동)",대전광역시 대덕구 비래동 139-10 (1층) ,20110404,한식,"달볶음탕, 안동찜닭",042 252 0838,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA2MTRfNTcg%2FMDAxNTkyMTE1NjQ3MTY1.mnkcFWw4YnESKarSPQebSby78LJwSwhf6JGQR7xA_cgg.cK2Hqw8BFpowvNoXqra6RhbZiwiuRDt4wRCAxzze0Hsg.JPEG.hhsea%2F1592115647113.jpg,36.3552235,127.4506655
+331,혜성옥,대전광역시 대덕구 한밭대로 1147 (중리동),대전광역시 대덕구 중리동 410-3 ,20030414,,돌솥설렁탕,042 673 4895,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_112%2F1440988719802N7BU8_JPEG%2F10997872_0.jpg,36.3593016,127.4259228
+332,월산본가,"대전광역시 대덕구 계족산로81번길 87, 2층 (송촌동)",대전광역시 대덕구 송촌동 449-4 (2층) ,20150923,한식,"갈비탕, 석갈비", 042 6216500,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMTRfMTU5%2FMDAxNTE1OTE1OTAzNDYw.OCixX05AgGi6DFcNsNrg_XlNqdq13EjtBFnO8QlUkgUg.aQYhpDCJkW3c7GepZXc6WcyFWSfG_8quylXQttQulpcg.JPEG.chlrmadus474%2F%25B4%25EB%25C0%25FC_%25BC%25DB%25C3%25CC%25B5%25BF_%25B0%25A5%25BA%25F1%25C5%25C15.jpg,36.3660427,127.4372474
+333,청주남주동해장국식당,대전광역시 대덕구 대덕대로1458번길 9 (목상동),대전광역시 대덕구 목상동 148-4 ,20040408,,해장국, 042 9359575,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTEwMTZfMjE3%2FMDAxNTcxMjE2NzIwMDk1.X-IcJkw6E4c0oHc4Ef2QkDr-n-CzBlpF01kyKRIM2LUg.NfX1stEuSn9jd1Z46FXLQe7CTI2T8cg9KmqmgipQBPwg.JPEG.butysliver486%2FKakaoTalk_20191016_170913882_03.jpg,36.44801,127.4110393
+334,광천순대대덕점,"대전광역시 대덕구 한남로137번길 31, 1층 (오정동)",대전광역시 대덕구 오정동 489-22 (1층) ,20161014,한식,순대국밥,042 625 7875,NULL,36.3466915,127.4166538
+335,푸짐한활어회본점식당,대전광역시 대덕구 송촌남로56번길 1 (송촌동),대전광역시 대덕구 송촌동 292-1 ,20060630,,활어회,042 626 8008,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2F20140211_269%2Fioi123456789_13920854326780KplN_JPEG%2F2014_02_01_food_0023_copy.jpg,36.3555884,127.4436301
+336,구구전복삼계탕,"대전광역시 대덕구 비래서로81번길 2, 1층 (비래동)",대전광역시 대덕구 비래동 151-13 (1층) ,20150713,한식,삼계탕, 042 6239952,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170714_258%2F1500017412844Js5Hy_JPEG%2FuserRegistration_6144c8d38ff04be5ad499ec8926d4f58_20170713_162207.jpg,36.3545386,127.4536363
+337,신탄면옥,대전광역시 대덕구 덕암북로104번길 74 (덕암동),대전광역시 대덕구 덕암동 48-10 ,20150818,한식,"돼지갈비, 냉면", 042 9358288,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181102_153%2F15411232657267wDtj_JPEG%2FOGmOESka10L5_NP3117laXUp.jpg,36.4396178,127.4266212
+338,더원막창,"대전광역시 대덕구 한밭대로 1144, 1층 (중리동)",대전광역시 대덕구 중리동 236-6 (1층) ,20060925,한식,"소막창, 돼지막창",042 621 1992,NULL,36.358561,127.4255973
+339,조선화로집 송촌점,"대전광역시 대덕구 동춘당로 79, 1층 (송촌동)",대전광역시 대덕구 송촌동 477-1 (1층) ,20140410,식육취급,갈비,042 632 9295,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191219_199%2F1576722517924FJwVg_JPEG%2FojvMe8BZAjCeMda7jnvtamPO.jpg,36.3640839,127.4406167
+340,소륜소반,"대전광역시 대덕구 대전로 1394, 1층 (읍내동)",대전광역시 대덕구 읍내동 248-6 외 3필지(1층) ,20150923,한식,감자탕,042 637 6601,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220122_259%2F1642812063899U01If_JPEG%2F23_%25B8%25F0%25B5%25EB%25C4%25C6_9.jpg,36.3780331,127.421647
+341,일미구이식당,대전광역시 대덕구 중리로 14 (중리동),대전광역시 대덕구 중리동 411-2 ,20151217,한식,돼지양념갈비,042 672 4288,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTAzMjhfNzIg%2FMDAxNTUzNzAyMjMyOTgz.Q7AgYM9csAIga-UI2AjkiQiGkQDIxXWJw4txjg7-glwg.IOKxQbak3vHZI4ilQzwP4V8Tn3HbvZFjDfHNPW0K-qUg.PNG.kyj3731%2F%25B1%25D7%25B8%25B237.png,36.3601124,127.4254889
+342,읍내동풍천민물장어,"대전광역시 대덕구 계족로 760, 2층 (읍내동)",대전광역시 대덕구 읍내동 573-1 (2층) ,20161014,한식,장어구이,042 627 8899,NULL,36.3790873,127.4270223
+343,신탄장어가참숯구이,"대전광역시 대덕구 신탄진로790번길 28, 1층 (신탄진동)",대전광역시 대덕구 신탄진동 154-6 (1층) ,20071023,한식,장어구이,042 933 5344,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220725_121%2F1658751572642ndCUj_JPEG%2F20220723_170114.jpg,36.4482197,127.4316279
+344,대복삼겹신탄진점,"대전광역시 대덕구 신탄진동로23번길 52 (신탄진동,(1층))",대전광역시 대덕구 신탄진동 139-1 (1층) ,20081230,한식,대패삼겹살,042 931 9288,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201111_272%2F1605069845969sPwcJ_JPEG%2F5e_GzxLNYQx05qZ7dwZjZhod.jpg,36.450064,127.4315174
+345,코다리밥상,"대전광역시 대덕구 송촌북로36번길 24, 2층 (송촌동)",대전광역시 대덕구 송촌동 450-5 (2층) ,20161014,한식,명태찜,042 624 0300,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191204_253%2F1575433478936aS9Xb_JPEG%2F3bONVDyXQ0mfK7SCn9l55tET.jpeg.jpg,36.3657605,127.4376227
+346,꽁뚜식당,"대전광역시 대덕구 신탄진로36번길 111, 2.3층 (연축동)","대전광역시 대덕구 연축동 69-5 ,12(2,3층) ",20081009,,북경오리,042 483 9999,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_210%2F1441010659283cCu7W_PNG%2FSUBMIT_1370237994413_19700325.png,36.3888966,127.4274397
+347,개성집,"대전광역시 대덕구 계족산로81번길 102, 1층 (송촌동)",대전광역시 대덕구 송촌동 447-2 1층 ,20161215,한식,"명태문어조림,명태단호박갈비조림",042 638 6678,NULL,36.3667973,127.4371261
+348,원조설악추어탕식당,"대전광역시 대덕구 덕암북로48번길 9, 1층 (덕암동)",대전광역시 대덕구 덕암동 8-15 1층 ,20170410,한식,추어탕,042 932 7000,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMjVfMjQ1%2FMDAxNjA4ODU3NTM4Mjgx.sm_4Qs6LjuJGq39w4EXURuzswc5WqBgV-C-GzrGbmFEg.NokDwLVD-8AM-qe_9gpaAVD6jFC7cgGFXjrGTB_vCkcg.JPEG.mirae723%2F2_%25282%2529.jpg,36.4451441,127.4223083
+349,이순신소국밥송촌점,"대전광역시 대덕구 동춘당로 79, 1층 (송촌동)",대전광역시 대덕구 송촌동 477-1 (1층) ,20091005,한식,소국밥,042 639 8077,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190730_124%2F15644623290566CU8T_JPEG%2FSUS4dRD2FE_nCIc9ReYP7j1-.jpg,36.3640839,127.4406167
+350,맛유락,"대전광역시 대덕구 계족산로81번길 92, 2층 (송촌동)",대전광역시 대덕구 송촌동 447-4 ,20120404,한식,찜닭,042 635 5212,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210707_4%2F1625664056057kOQdN_JPEG%2FGdLIsrPRuN61XBzTfDLSASX4.jpg,36.3665008,127.4375049
+351,또랑,"대전광역시 대덕구 계족로 550 (중리동,지상1층)",대전광역시 대덕구 중리동 122-4 지상1층 ,20110404,한식,"돼지갈비,갈비탕",042 635 5678,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200110_14%2F1578588491699anjdb_JPEG%2FCdxefOwDu8vQbWCFmNvLhwst.JPG.jpg,36.3606403,127.4322375
+352,낙동생오리대전점,"대전광역시 대덕구 계족산로36번길 9, 1층 (중리동)",대전광역시 대덕구 중리동 505-4 (1층) ,20101006,,"생오리참숯구이, 생오리양념주물럭구이",042 627 5288,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191125_146%2F1574643161290EbSrG_JPEG%2FgBvScP7PKDuSzvquI_uBLUcZ.jpg,36.3619258,127.4357204
+353,예산소복갈비,"대전광역시 대덕구 송촌남로 43 (송촌동,(2층))",대전광역시 대덕구 송촌동 242-48 (2층) ,20110701,한식,"소복갈비,돼지갈비",042 635 2401,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2F20131230_280%2Fbluestick526_1388409477635yETgo_JPEG%2F%25B2%25D9%25B9%25CC%25B1%25E2_%25C1%25A6%25B8%25F1IMG_1097%2528%25C1%25A6%25B8%25F1%2529.jpg,36.3556539,127.4420252
+354,우리손칼국수,"대전광역시 대덕구 선비마을로 9, 1층 (송촌동)",대전광역시 대덕구 송촌동 506-2 (1층) ,20141008,한식,칼국수,042 626 8283,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTA2MjZfNjEg%2FMDAxNTYxNTIxMzk5MjQ0.Irh8KzTWgY1ZyK4bQ9v9wAcmrSxOlAxMkLg_KzndUNIg.TyGOiBUDhZFq1WtQWbz6SWYgM5bcQn0FXyxOJBYyaLgg.JPEG.ilypjk%2F20190615_151213.jpg,36.3623281,127.4461952
+355,강길도낙지마을,"대전광역시 대덕구 선비마을로 9 (송촌동,1동 102호)",대전광역시 대덕구 송촌동 506-2 1동 102호 ,20120627,한식,"낙지철판구이,낙지볶음",042 639 8582,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MDdfMTQw%2FMDAxNjU5ODQxNDkxNTMy.ZVpaO6KKrEHamKW06VCTEJ4FzjmtTK9LIPKYDFLTKZMg.82LBsAQ6Nu53yuy0C2Ha2RNXyIfnt88BKCU_fT3bGRIg.JPEG.vldksltmxm04%2F20220806%25A3%25DF124831.jpg,36.3623281,127.4461952
+356,백마강민물장어,대전광역시 대덕구 동서대로 1752 (비래동),대전광역시 대덕구 비래동 561-1 ,20111228,한식,장어구이,042 628 3883,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fimage.nmv.naver.net%2Fblogucc28%2F2017%2F08%2F29%2F577%2F78c04cebd0751f6f57107436f0f68629e6c8_ugcvideo_270P_01_origin_logo.jpg,36.3520985,127.4433887
+357,계족산산골보리밥,"대전광역시 대덕구 장동로 223-10 (장동,(1층))",대전광역시 대덕구 장동 367-4 (1층) ,20121224,한식,보리밥,042 625 2758,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210322_155%2F16164161974101gp5x_JPEG%2FO7fT09mSZt17nTeo1pDMOvwc.jpg,36.4140299,127.4379819
+358,통큰갈비신탄진점,"대전광역시 대덕구 신탄진동로 18, 1층 (신탄진동)",대전광역시 대덕구 신탄진동 155-16 (1층) ,20121224,한식,돼지갈비,042 933 9329,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190119_295%2F1547895469104PtBjN_JPEG%2Fm1UyhZmQfIYO5aJLq567bzKl.jpg,36.4475232,127.4314735
+359,김밥천국석봉점,"대전광역시 대덕구 대덕대로 1554, 1층 (석봉동)",대전광역시 대덕구 석봉동 309-11 (1층) ,20130405,한식,원조김밥,042 932 0222,NULL,36.4490116,127.420874
+360,샤브쌈주머니오정점,"대전광역시 대덕구 한밭대로 1048, 2층 (오정동)",대전광역시 대덕구 오정동 65-8 (2층) ,20130405,한식,"소고기월남쌈, 오리월남쌈",042 624 8485,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210516_117%2F1621165869286m1ATC_JPEG%2FaWS2S6hl2XuMIB2GC48sBd8R.jpeg.jpg,36.358153,127.4148825
+361,다모아밥상,"대전광역시 대덕구 한밭대로 1027, 지하1층 (오정동)",대전광역시 대덕구 오정동 62-1 (지하1층) ,20140404,한식,삼겹살,042 637 1120,NULL,36.3587785,127.4126905
+362,비빔국수전문점길갈,"대전광역시 대덕구 신탄진로567번길 2, 1층 (상서동)",대전광역시 대덕구 상서동 279 (1층) ,20140404,분식,"비빔국수,왕만두",042 671 3060,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_90%2F1441016422819UJp0A_JPEG%2F126271548566148_0.jpg,36.4299026,127.4213952
+363,계족산염소맛집,"대전광역시 대덕구 송촌북로36번길 11, 2층 (송촌동)",대전광역시 대덕구 송촌동 449-6 (2층) ,20140711,한식,"오리양념불고기, 오리탕미나리샤브",042 636 5292,NULL,36.3658465,127.4367384
+364,삼돈이,"대전광역시 대덕구 대덕대로 1554, 1층 (석봉동, 별관 )",대전광역시 대덕구 석봉동 309-11 (별관1층) ,20140404,한식,삼겹살,042 932 8292,NULL,36.4490116,127.420874
+365,장동감나무보리밥,대전광역시 대덕구 장동로 231 (장동),대전광역시 대덕구 장동 347-5 ,20150713,한식,보리밥,042 585 5353,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA1MjVfNDMg%2FMDAxNTkwMzczODg2ODUz.Y-Ihc-ANN7c7rVqK2t4XmVA5gBFPYrG2wH7Y4mcd9rog.mCDy2PGPaiz3sLwtG6BHYVcIWj5rYJagiD2GK_h9P8gg.JPEG.daedeokgu%2F15.jpg,36.4140386,127.4390489
+366,김연수소국밥막국수,"대전광역시 대덕구 대전로1370번길 13-14, 1-2층 (읍내동)",대전광역시 대덕구 읍내동 306 1-2층 ,20170706,한식,소머리국밥,042 634 3325,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181113_146%2F1542085114185mriRQ_JPEG%2F4ovQwTVHpSzRuExzLS5hrV-G.jpg,36.3764712,127.4216429
+367,딜리버리 팩토리 대전본점,"대전광역시 대덕구 송촌북로 1, 1층 (중리동)",대전광역시 대덕구 중리동 503-3 1층 ,20160411,한식,"돼지족발, 만두전골",042 621 8883,NULL,36.3626881,127.4368403
+368,소도둑대전송촌점,"대전광역시 대덕구 송촌북로4번길 49, 1층 (송촌동, 101호)",대전광역시 대덕구 송촌동 475-6 101호 ,20170410,한식,숙성양념더줌(소고기),042 639 6036,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181023_251%2F1540272004014FYKIY_JPEG%2FU1bLZpVd_ewCmTJSoY8Fl23Q.jpg,36.363367,127.4397694
+369,명품진한우,"대전광역시 대덕구 한밭대로1006번길 105, 2층 (오정동)",대전광역시 대덕구 오정동 275-3 2층 105호,20160411,한식,한우구이,042 628 9277,NULL,36.354817,127.4144161
+370,샤브쌈주머니비래점,"대전광역시 대덕구 비래동로 20, 2층 (비래동)",대전광역시 대덕구 비래동 139-1 2층 ,20170410,한식,샤브샤브,042 622 3339,https://search.pstatic.net/common/?autoRotate=true&amp;quality=95&amp;type=w750&amp;src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MTZfMjMg%2FMDAxNjU1MzQxNjc1Mjcx.Z2_e8S6fNtziM0-SpRSWQiiC-jCojUIGSLgt-nXiccgg.T50r-ujWftk0_B05hkCqWe1iZssU5nDDpV2_AejXWNkg.JPEG.entz94%2F1655341674290.jpg,36.3555491,127.4503245
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
